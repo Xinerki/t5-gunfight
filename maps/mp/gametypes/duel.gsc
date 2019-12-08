@@ -1,0 +1,435 @@
+#include common_scripts\utility;
+#include maps\mp\_utility;
+#include maps\mp\gametypes\_hud_util;
+main()
+{
+	if(GetDvar( #"mapname") == "mp_background")
+		return;
+	
+	maps\mp\gametypes\_globallogic::init();
+	maps\mp\gametypes\_callbacksetup::SetupCallbacks();
+	maps\mp\gametypes\_globallogic::SetupCallbacks();
+
+	// maps\mp\gametypes\_globallogic_utils::registerRoundSwitchDvar( level.gameType, 3, 0, 9 );
+	maps\mp\gametypes\_globallogic_utils::registerTimeLimitDvar( level.gameType, 10, 0, 1440 );
+	maps\mp\gametypes\_globallogic_utils::registerScoreLimitDvar( level.gameType, 0, 0, 500 );
+	maps\mp\gametypes\_globallogic_utils::registerRoundLimitDvar( level.gameType, 0, 0, 15 );
+	maps\mp\gametypes\_globallogic_utils::registerRoundWinLimitDvar( level.gameType, 6, 0, 10 );
+	maps\mp\gametypes\_globallogic_utils::registerNumLivesDvar( level.gameType, 1, 0, 10 );
+
+	maps\mp\gametypes\_weapons::registerGrenadeLauncherDudDvar( level.gameType, 10, 0, 1440 );
+	maps\mp\gametypes\_weapons::registerThrownGrenadeDudDvar( level.gameType, 0, 0, 1440 );
+	maps\mp\gametypes\_weapons::registerKillstreakDelay( level.gameType, 0, 0, 1440 );
+	maps\mp\gametypes\_globallogic::registerFriendlyFireDelay( level.gameType, 15, 0, 1440 );
+	
+	level.teamBased = true;
+	level.overrideTeamScore = true;
+	// level.scoreRoundBased = true;
+	level.onStartGameType = ::onStartGameType;
+	level.onSpawnPlayer = ::onSpawnPlayer;
+	level.onSpawnPlayerUnified = ::onSpawnPlayerUnified;
+	level.onRoundEndGame = ::onRoundEndGame;
+	level.onDeadEvent = ::onDeadEvent;
+	
+	// currentWeapon = getRandomGunFromProgression();
+	
+	
+	level.giveCustomLoadout = ::giveCustomLoadout;
+	
+	game["dialog"]["gametype"] = "tdm_start";
+	game["dialog"]["gametype_hardcore"] = "hctdm_start";
+	game["dialog"]["offense_obj"] = "generic_boost";
+	game["dialog"]["defense_obj"] = "generic_boost";
+	
+	// addGunToProgression( "python_speed_mp" );
+	// addGunToProgression( "makarovdw_mp" );
+	// addGunToProgression( "spas_mp" );
+	// addGunToProgression( "ithaca_mp" );
+	// addGunToProgression( "mp5k_mp" );
+	// addGunToProgression( "skorpiondw_mp" );
+	// addGunToProgression( "ak74u_mp" );
+	// addGunToProgression( "m14_mp" );
+	// addGunToProgression( "m16_mp" );
+	// addGunToProgression( "famas_mp" );
+	// addGunToProgression( "aug_mp" );
+	// addGunToProgression( "hk21_mp" );
+	// addGunToProgression( "m60_mp" );
+	// addGunToProgression( "l96a1_mp" );
+	// addGunToProgression( "wa2000_mp" );
+	// addGunToProgression( "m202_flash_wager_mp" );
+	// addGunToProgression( "m72_law_mp" );
+	// addGunToProgression( "china_lake_mp" );
+	// addGunToProgression( "crossbow_explosive_mp", "explosive_bolt_mp" );
+	// addGunToProgression( "knife_ballistic_mp" );
+	
+	addPrimaryToList ( "spas_mp" );
+	addPrimaryToList ( "ithaca_grip_mp" );
+	addPrimaryToList ( "rottweil72_mp" );
+	addPrimaryToList ( "mp5k_mp" );
+	addPrimaryToList ( "ak47_mp" );
+	addPrimaryToList ( "m14_mp" );
+	addPrimaryToList ( "m16_mp" );
+	addPrimaryToList ( "l96a1_mp" );
+	addPrimaryToList ( "famas_mp" );
+	addPrimaryToList ( "uzi_mp" );
+	addPrimaryToList ( "commando_mp" );
+	addPrimaryToList ( "fnfal_mp" );
+	addPrimaryToList ( "psg1_acog_mp" );
+	addPrimaryToList ( "galil_mp" );
+	addPrimaryToList ( "stoner63_mp" );
+	addPrimaryToList ( "mpl_mp" );
+	addPrimaryToList ( "mac11_mp" );
+	
+	addSecondaryToList( "python_speed_mp" );
+	addSecondaryToList( "makarov_mp" );
+	addSecondaryToList( "m1911_mp" );
+	addSecondaryToList( "cz75_mp" );
+	// addSecondaryToList( "knife_ballistic_mp" );
+	
+	// addGunToProgression(getRandomGunFromProgression());
+	
+	setscoreboardcolumns( "kills", "deaths", "kdratio", "assists" ); 
+}
+addPrimaryToList( gunName, altName )
+{
+	if ( !IsDefined( level.primaryList ) )
+		level.primaryList = [];
+	
+	newWeapon = SpawnStruct();
+	newWeapon.names = [];
+	newWeapon.names[newWeapon.names.size] = gunName;
+	if ( IsDefined( altName ) )
+		newWeapon.names[newWeapon.names.size] = altName;
+	level.primaryList[level.primaryList.size] = newWeapon;
+}
+addSecondaryToList( gunName, altName )
+{
+	if ( !IsDefined( level.secondaryList ) )
+		level.secondaryList = [];
+	
+	newWeapon = SpawnStruct();
+	newWeapon.names = [];
+	newWeapon.names[newWeapon.names.size] = gunName;
+	if ( IsDefined( altName ) )
+		newWeapon.names[newWeapon.names.size] = altName;
+	level.secondaryList[level.secondaryList.size] = newWeapon;
+}
+giveCustomLoadout( takeAllWeapons, alreadySpawned )
+{
+	// if ( !IsDefined( gunCycle ) )
+		// gunCycle = 1;
+	
+	chooseRandomBody = false;
+	if ( !IsDefined( alreadySpawned ) || !alreadySpawned )
+		chooseRandomBody = true;
+	
+	self maps\mp\gametypes\_wager::setupBlankRandomPlayer( takeAllWeapons, chooseRandomBody );
+	self DisableWeaponCycling();
+	
+	// if ( !IsDefined( self.gunProgress ) )
+		// self.gunProgress = 0;
+	
+	// currentWeapon = level.gunProgression[self.gunProgress].names[0];
+	// self giveWeapon( currentWeapon );
+	// self switchToWeapon( currentWeapon );
+	// self giveWeapon( "knife_mp" );
+	
+	// if ( !IsDefined( alreadySpawned ) || !alreadySpawned )
+		// self setSpawnWeapon( currentWeapon );
+	
+	// if ( IsDefined( takeAllWeapons ) && !takeAllWeapons )
+		// self thread takeOldWeapons( currentWeapon );
+	// else
+		
+	
+	// currentWeapon = "ray_gun_mp";
+	
+	currentPrimary = level.duelPrimaryWeapon;
+	currentSecondary = level.duelSecondaryWeapon;
+	
+	if (currentPrimary != "spas_mp" && currentPrimary != "ithaca_grip_mp" && currentPrimary != "rottweil72_mp")
+	{
+		currentWeapon = currentSecondary;
+		self giveWeapon( currentWeapon );	
+		if ( !IsDefined( alreadySpawned ) || !alreadySpawned )
+			self setSpawnWeapon( currentWeapon );
+	}
+	
+	currentWeapon = currentPrimary;
+	self switchToWeapon( currentWeapon );
+	self giveWeapon( currentWeapon );	
+	if ( !IsDefined( alreadySpawned ) || !alreadySpawned )
+		self setSpawnWeapon( currentWeapon );
+	
+	// currentWeapon = level.duelRandomWeapon;
+	// currentWeapon = level.gunProgression[0].names[0];
+	// self.gunProgress++;
+	
+	self giveWeapon( "knife_mp" );	
+	self EnableWeaponCycling();
+	return currentWeapon;
+}
+chooseRandomGuns()
+{
+	level endon( "game_ended" );
+	
+	// level.duelRandomWeapon = getRandomGunFromProgression();
+	level.duelPrimaryWeapon = random(level.primaryList).names[0];
+	level.duelSecondaryWeapon = random(level.secondaryList).names[0];
+}
+getRandomGunFromProgression()
+{	
+	weaponIDKeys = GetArrayKeys( level.tbl_weaponIDs );
+	numWeaponIDKeys = weaponIDKeys.size;
+	
+	while ( true )
+	{
+		randomIndex = RandomInt( numWeaponIDKeys );
+		baseWeaponName = "";
+		weaponName = "";
+		
+		id = random( level.tbl_weaponIDs );
+		if ( ( id[ "slot" ] != "primary" ) && ( id[ "slot" ] != "secondary" ) )
+			continue;
+			
+		if ( id[ "reference" ] == "weapon_null" )
+			continue;
+			
+		if ( id[ "cost" ] == "-1" )
+			continue;
+			
+		baseWeaponName = id[ "reference" ];
+		attachmentList = id[ "attachment" ];
+		weaponName = addRandomAttachmentToWeaponName( baseWeaponName, attachmentList );
+		
+		if ( !IsDefined( level.usedBaseWeapons ) )
+		{
+			level.usedBaseWeapons = [];
+			level.usedBaseWeapons[0] = "strela";
+		}
+		skipWeapon = false;
+		for ( i = 0 ; i < level.usedBaseWeapons.size ; i++ )
+		{
+			if ( level.usedBaseWeapons[i] == baseWeaponName )
+			{
+				skipWeapon = true;
+				break;
+			}
+		}
+		if ( skipWeapon )
+			continue;
+		level.usedBaseWeapons[level.usedBaseWeapons.size] = baseWeaponName;
+		weaponName = weaponName+"_mp";
+		
+		return weaponName;
+	}
+}
+addRandomAttachmentToWeaponName( baseWeaponName, attachmentList )
+{
+	if ( !IsDefined( attachmentList ) )
+		return baseWeaponName;
+		
+	attachments = StrTok( attachmentList, " " );
+	attachments = array_remove( attachments, "dw" ); 
+	if ( attachments.size <= 0 )
+		return baseWeaponName;
+		
+	attachments[attachments.size] = "";
+	attachment = random( attachments );
+	if ( attachment == "" )
+		return baseWeaponName;
+		
+	return baseWeaponName+"_"+attachment;
+}
+onStartGameType()
+{
+	SetDvar( "scr_teambalance", 1 );
+	SetDvar( "scr_disable_cac", 1 );
+	MakeDvarServerInfo( "scr_disable_cac", 1 );
+	SetDvar( "scr_disable_weapondrop", 1 );
+	SetDvar( "scr_game_perks", 0 );
+	level.killstreaksenabled = 0;
+	level.hardpointsenabled = 0;
+	setClientNameMode("auto_change");
+	maps\mp\gametypes\_globallogic_ui::setObjectiveText( "allies", &"OBJECTIVES_TDM" );
+	maps\mp\gametypes\_globallogic_ui::setObjectiveText( "axis", &"OBJECTIVES_TDM" );
+	
+	if ( level.splitscreen )
+	{
+		maps\mp\gametypes\_globallogic_ui::setObjectiveScoreText( "allies", &"OBJECTIVES_TDM" );
+		maps\mp\gametypes\_globallogic_ui::setObjectiveScoreText( "axis", &"OBJECTIVES_TDM" );
+	}
+	else
+	{
+		maps\mp\gametypes\_globallogic_ui::setObjectiveScoreText( "allies", &"OBJECTIVES_TDM_SCORE" );
+		maps\mp\gametypes\_globallogic_ui::setObjectiveScoreText( "axis", &"OBJECTIVES_TDM_SCORE" );
+	}
+	maps\mp\gametypes\_globallogic_ui::setObjectiveHintText( "allies", &"OBJECTIVES_TDM_HINT" );
+	maps\mp\gametypes\_globallogic_ui::setObjectiveHintText( "axis", &"OBJECTIVES_TDM_HINT" );
+	
+	level.spawnMins = ( 0, 0, 0 );
+	level.spawnMaxs = ( 0, 0, 0 );
+	maps\mp\gametypes\_spawnlogic::placeSpawnPoints( "mp_tdm_spawn_allies_start" );
+	maps\mp\gametypes\_spawnlogic::placeSpawnPoints( "mp_tdm_spawn_axis_start" );
+	maps\mp\gametypes\_spawnlogic::addSpawnPoints( "allies", "mp_tdm_spawn" );
+	maps\mp\gametypes\_spawnlogic::addSpawnPoints( "axis", "mp_tdm_spawn" );
+	maps\mp\gametypes\_spawning::updateAllSpawnPoints();
+	level.spawn_axis_start= maps\mp\gametypes\_spawnlogic::getSpawnpointArray("mp_tdm_spawn_axis_start");
+	level.spawn_allies_start= maps\mp\gametypes\_spawnlogic::getSpawnpointArray("mp_tdm_spawn_allies_start");
+	
+	level.mapCenter = maps\mp\gametypes\_spawnlogic::findBoxCenter( level.spawnMins, level.spawnMaxs );
+	setMapCenter( level.mapCenter );
+	spawnpoint = maps\mp\gametypes\_spawnlogic::getRandomIntermissionPoint();
+	setDemoIntermissionPoint( spawnpoint.origin, spawnpoint.angles );
+	
+	// allowed[0] = "gun";
+	allowed[0] = "tdm";
+	
+	level.displayRoundEndText = false;
+	maps\mp\gametypes\_gameobjects::main(allowed);
+	
+	maps\mp\gametypes\_spawning::create_map_placed_influencers();
+	
+	maps\mp\gametypes\_rank::registerScoreInfo( "win", 2 );
+	maps\mp\gametypes\_rank::registerScoreInfo( "loss", 1 );
+	maps\mp\gametypes\_rank::registerScoreInfo( "tie", 1.5 );
+	
+	maps\mp\gametypes\_rank::registerScoreInfo( "kill", 500 );
+	maps\mp\gametypes\_rank::registerScoreInfo( "headshot", 500 );
+	maps\mp\gametypes\_rank::registerScoreInfo( "assist_75", 250 );
+	maps\mp\gametypes\_rank::registerScoreInfo( "assist_50", 250 );
+	maps\mp\gametypes\_rank::registerScoreInfo( "assist_25", 250 );
+	maps\mp\gametypes\_rank::registerScoreInfo( "assist", 250 );
+	
+	level thread chooseRandomGuns();
+	
+	if ( !isOneRound() )
+	{
+		level.displayRoundEndText = true;
+		if( isScoreRoundBased() )
+		{
+			maps\mp\gametypes\_globallogic_score::resetTeamScores();
+		}
+	}
+}
+onSpawnPlayerUnified()
+{
+	self.usingObj = undefined;
+	
+	if ( level.useStartSpawns && !level.inGracePeriod )
+	{
+		level.useStartSpawns = false;
+	}
+	
+	maps\mp\gametypes\_spawning::onSpawnPlayer_Unified();
+}
+onSpawnPlayer()
+{
+	pixbeginevent("TDM:onSpawnPlayer");
+	self.usingObj = undefined;
+	if ( level.inGracePeriod )
+	{
+		spawnPoints = maps\mp\gametypes\_spawnlogic::getSpawnpointArray( "mp_tdm_spawn_" + self.pers["team"] + "_start" );
+		
+		if ( !spawnPoints.size )
+			spawnPoints = maps\mp\gametypes\_spawnlogic::getSpawnpointArray( "mp_sab_spawn_" + self.pers["team"] + "_start" );
+			
+		if ( !spawnPoints.size )
+		{
+			spawnPoints = maps\mp\gametypes\_spawnlogic::getTeamSpawnPoints( self.pers["team"] );
+			spawnPoint = maps\mp\gametypes\_spawnlogic::getSpawnpoint_NearTeam( spawnPoints );
+		}
+		else
+		{
+			spawnPoint = maps\mp\gametypes\_spawnlogic::getSpawnpoint_Random( spawnPoints );
+		}		
+	}
+	else
+	{
+		spawnPoints = maps\mp\gametypes\_spawnlogic::getTeamSpawnPoints( self.pers["team"] );
+		spawnPoint = maps\mp\gametypes\_spawnlogic::getSpawnpoint_NearTeam( spawnPoints );
+	}
+	
+	self spawn( spawnPoint.origin, spawnPoint.angles, "tdm" );
+	pixendevent();
+}
+onDeadEvent( team )
+{	
+	if ( team == game["attackers"] )
+	{
+		duel_endGameWithKillcam( game["defenders"], game["strings"][game["attackers"]+"_eliminated"] );
+	}
+	else if ( team == game["defenders"] )
+	{
+		duel_endGameWithKillcam( game["attackers"], game["strings"][game["defenders"]+"_eliminated"] );
+	}
+}
+duel_endGame( winningTeam, endReasonText )
+{
+	if ( isdefined( winningTeam ) )
+		[[level._setTeamScore]]( winningTeam, [[level._getTeamScore]]( winningTeam ) + 1 );
+	
+	thread maps\mp\gametypes\_globallogic::endGame( winningTeam, endReasonText );
+}
+duel_endGameWithKillcam( winningTeam, endReasonText )
+{
+	level thread maps\mp\gametypes\_killcam::startLastKillcam();
+	duel_endgame( winningTeam, endReasonText );
+}
+// onRoundEndGame( winningTeam )
+// {
+	// if ( isdefined( winningTeam ) && (winningTeam == "allies" || winningTeam == "axis") )
+		// [[level._setTeamScore]]( winningTeam, [[level._getTeamScore]]( winningTeam ) + 1 );	
+	
+	// if ( game["roundswon"]["allies"] == game["roundswon"]["axis"] )
+		// winner = "tie";
+	// else if ( game["roundswon"]["axis"] > game["roundswon"]["allies"] )
+		// winner = "axis";
+	// else
+		// winner = "allies";
+	
+	// return winner;
+// }
+onRoundEndGame( roundWinner )
+{
+	if ( game["roundswon"]["allies"] == game["roundswon"]["axis"] )
+		winner = "tie";
+	else if ( game["roundswon"]["axis"] > game["roundswon"]["allies"] )
+		winner = "axis";
+	else
+		winner = "allies";
+	
+	return winner;
+}
+// onScoreCloseMusic()
+// {
+    // while( !level.gameEnded )
+    // {
+        // axisScore = [[level._getTeamScore]]( "axis" );
+	    // alliedScore = [[level._getTeamScore]]( "allies" );
+	    // scoreLimit = level.scoreLimit;
+	    // scoreThreshold = scoreLimit * .1;
+	    // scoreDif = abs(axisScore - alliedScore);
+	    // scoreThresholdStart = abs(scoreLimit - scoreThreshold);
+	    // scoreLimitCheck = scoreLimit - 10;
+        
+        // if (alliedScore > axisScore)
+	    // {
+		    // currentScore = alliedScore;
+	    // }		
+	    // else
+	    // {
+		    // currentScore = axisScore;
+	    // }
+        
+        // if ( scoreDif <= scoreThreshold && scoreThresholdStart <= currentScore )
+	    // {
+		    
+		    // thread maps\mp\gametypes\_globallogic_audio::set_music_on_team( "TIME_OUT", "both" );
+		    // thread maps\mp\gametypes\_globallogic_audio::actionMusicSet();
+		    // return;
+	    // }
+        
+        // wait(.5);
+    // }
+// } 

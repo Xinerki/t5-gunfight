@@ -1,0 +1,1096 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\dm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\dm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;0;[KG]Xinerki
+  3:22 D;0;0;axis;[KG]Xinerki;;-1;world;;none;33;MOD_FALLING;none
+  3:29 ShutdownGame:
+  3:29 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\dm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\dm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;0;[KG]Xinerki
+  0:42 D;0;0;axis;[KG]Xinerki;;-1;world;;none;29;MOD_FALLING;none
+  1:08 ShutdownGame:
+  1:08 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\dm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\dm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:01 J;0;0;[KG]Xinerki
+  0:06 ShutdownGame:
+  0:06 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;[KG]Xinerki
+  0:19 K;0;0;allies;[KG]Xinerki;0;-1;allies;[KG]Xinerki;sticky_grenade_mp;190;MOD_GRENADE_SPLASH;none
+  0:50 K;0;0;allies;[KG]Xinerki;0;-1;allies;[KG]Xinerki;sticky_grenade_mp;179;MOD_GRENADE_SPLASH;none
+  1:02 ShutdownGame:
+  1:02 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\CoD4Host\sv_maxclients\24\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;1;[KG]Xinerki
+  0:35 J;0;0;[3arc]democlient
+  1:16 K;0;1;axis;[KG]Xinerki;0;-1;axis;[KG]Xinerki;destructible_car_mp;252;MOD_EXPLOSIVE;none
+  1:27 K;0;1;axis;[KG]Xinerki;0;-1;axis;[KG]Xinerki;sticky_grenade_mp;183;MOD_GRENADE_SPLASH;none
+  1:48 K;0;1;axis;[KG]Xinerki;0;-1;axis;[KG]Xinerki;destructible_car_mp;247;MOD_EXPLOSIVE;none
+  2:00 D;0;1;axis;[KG]Xinerki;0;1;axis;[KG]Xinerki;concussion_grenade_mp;1;MOD_GRENADE_SPLASH;none
+  2:03 D;0;1;axis;[KG]Xinerki;0;1;axis;[KG]Xinerki;concussion_grenade_mp;1;MOD_GRENADE_SPLASH;none
+  2:08 K;0;1;axis;[KG]Xinerki;0;-1;axis;[KG]Xinerki;sticky_grenade_mp;158;MOD_GRENADE_SPLASH;none
+  2:24 K;0;1;axis;[KG]Xinerki;0;-1;axis;[KG]Xinerki;sticky_grenade_mp;170;MOD_GRENADE_SPLASH;none
+  2:43 ShutdownGame:
+  2:43 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;1;[KG]Xinerki
+  0:10 J;0;0;[3arc]democlient
+  0:21 Q;6853;2;expendable.ethic
+  0:58 Q;6853;2;expendable.ethic
+  2:18 Q;6853;2;expendable.ethic
+  3:08 Q;0;1;[KG]Xinerki
+  3:08 ShutdownGame:
+  3:08 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_villa\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_villa\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;1;[KG]Xinerki
+  0:05 J;0;0;[3arc]democlient
+  1:06 ShutdownGame:
+  1:06 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;1;[KG]Xinerki
+  0:05 J;0;0;[3arc]democlient
+  0:25 D;0;1;axis;[KG]Xinerki;;-1;world;;none;32;MOD_FALLING;none
+  1:00 ShutdownGame:
+  1:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;1;[KG]Xinerki
+  0:05 J;0;0;[3arc]democlient
+  1:07 Q;6853;2;expendable.ethic
+  2:07 D;0;1;allies;[KG]Xinerki;;-1;world;;none;38;MOD_FALLING;none
+  2:53 ShutdownGame:
+  2:53 ------------------------------------------------------------
+  2:53 ------------------------------------------------------------
+  2:53 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  2:53 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  2:53 J;0;1;[KG]Xinerki
+  2:53 J;0;0;[3arc]democlient
+  3:23 D;0;1;allies;[KG]Xinerki;;-1;world;;none;35;MOD_FALLING;none
+  3:28 K;0;1;allies;[KG]Xinerki;;-1;world;;none;94;MOD_FALLING;none
+  3:36 K;0;1;allies;[KG]Xinerki;0;-1;allies;[KG]Xinerki;destructible_car_mp;154;MOD_EXPLOSIVE;none
+  3:57 ShutdownGame:
+  3:57 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;[KG]Xinerki
+  0:38 D;0;0;axis;[KG]Xinerki;;-1;world;;none;87;MOD_FALLING;none
+  0:51 K;0;0;axis;[KG]Xinerki;;-1;world;;none;110;MOD_FALLING;none
+  1:00 D;0;0;axis;[KG]Xinerki;;-1;world;;none;88;MOD_FALLING;none
+  1:43 D;0;0;axis;[KG]Xinerki;;-1;world;;none;55;MOD_FALLING;none
+  2:51 ShutdownGame:
+  2:51 ------------------------------------------------------------
+  2:51 ------------------------------------------------------------
+  2:51 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  2:51 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  2:51 J;0;0;[KG]Xinerki
+  3:38 J;6853;1;expendable.ethic
+  4:05 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;30;MOD_PISTOL_BULLET;left_leg_lower
+  4:05 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;30;MOD_PISTOL_BULLET;left_foot
+  4:05 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;30;MOD_PISTOL_BULLET;left_leg_lower
+  4:05 K;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;30;MOD_PISTOL_BULLET;left_leg_lower
+  4:18 ShutdownGame:
+  4:18 ------------------------------------------------------------
+  4:18 ------------------------------------------------------------
+  4:18 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  4:18 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  4:19 J;6853;1;expendable.ethic
+  4:19 J;0;0;[KG]Xinerki
+  4:37 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;16;MOD_PISTOL_BULLET;left_hand
+  4:37 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;11;MOD_PISTOL_BULLET;right_leg_upper
+  4:38 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;15;MOD_PISTOL_BULLET;left_leg_upper
+  4:38 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;11;MOD_PISTOL_BULLET;right_leg_upper
+  4:38 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;15;MOD_PISTOL_BULLET;left_leg_upper
+  4:38 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;15;MOD_PISTOL_BULLET;torso_lower
+  4:39 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;11;MOD_PISTOL_BULLET;right_leg_upper
+  4:42 K;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;knife_mp;139;MOD_MELEE;right_leg_lower
+  4:55 ShutdownGame:
+  4:55 ------------------------------------------------------------
+  4:55 ------------------------------------------------------------
+  4:55 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  4:55 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  4:55 J;6853;1;expendable.ethic
+  4:55 J;0;0;[KG]Xinerki
+  5:02 D;0;0;axis;[KG]Xinerki;;-1;world;;none;88;MOD_FALLING;none
+  5:09 D;0;0;axis;[KG]Xinerki;;-1;world;;none;29;MOD_FALLING;none
+  5:14 D;0;0;axis;[KG]Xinerki;;-1;world;;none;32;MOD_FALLING;none
+  5:19 D;0;0;axis;[KG]Xinerki;;-1;world;;none;18;MOD_FALLING;none
+  5:27 D;0;0;axis;[KG]Xinerki;;-1;world;;none;21;MOD_FALLING;none
+  5:33 D;0;0;axis;[KG]Xinerki;;-1;world;;none;18;MOD_FALLING;none
+  5:39 K;0;0;axis;[KG]Xinerki;;-1;world;;none;110;MOD_FALLING;none
+  5:45 ShutdownGame:
+  5:45 ------------------------------------------------------------
+  5:45 ------------------------------------------------------------
+  5:45 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  5:45 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  5:45 J;6853;1;expendable.ethic
+  5:45 J;0;0;[KG]Xinerki
+  5:53 K;0;0;axis;[KG]Xinerki;;-1;world;;none;110;MOD_FALLING;none
+  6:06 ShutdownGame:
+  6:06 ------------------------------------------------------------
+  6:06 ------------------------------------------------------------
+  6:06 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  6:06 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  6:06 J;6853;1;expendable.ethic
+  6:06 J;0;0;[KG]Xinerki
+  6:09 ShutdownGame:
+  6:09 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;[KG]Xinerki
+  0:26 D;0;0;axis;[KG]Xinerki;;-1;world;;none;95;MOD_FALLING;none
+  0:36 D;0;0;axis;[KG]Xinerki;;-1;world;;none;95;MOD_FALLING;none
+  0:51 D;0;0;axis;[KG]Xinerki;;-1;world;;none;91;MOD_FALLING;none
+  1:00 D;0;0;axis;[KG]Xinerki;;-1;world;;none;93;MOD_FALLING;none
+  1:06 D;0;0;axis;[KG]Xinerki;;-1;world;;none;62;MOD_FALLING;none
+  1:13 D;0;0;axis;[KG]Xinerki;;-1;world;;none;62;MOD_FALLING;none
+  1:18 D;0;0;axis;[KG]Xinerki;;-1;world;;none;93;MOD_FALLING;none
+  1:25 D;0;0;axis;[KG]Xinerki;;-1;world;;none;2;MOD_FALLING;none
+  1:33 D;0;0;axis;[KG]Xinerki;;-1;world;;none;33;MOD_FALLING;none
+  1:40 K;0;0;axis;[KG]Xinerki;0;-1;axis;[KG]Xinerki;destructible_car_mp;200;MOD_EXPLOSIVE;none
+  1:52 D;0;0;axis;[KG]Xinerki;;-1;world;;none;38;MOD_FALLING;none
+  2:09 D;0;0;axis;[KG]Xinerki;;-1;world;;none;89;MOD_FALLING;none
+  2:17 D;0;0;axis;[KG]Xinerki;;-1;world;;none;8;MOD_FALLING;none
+  2:21 D;0;0;axis;[KG]Xinerki;;-1;world;;none;58;MOD_FALLING;none
+  2:51 ShutdownGame:
+  2:51 ------------------------------------------------------------
+  2:51 ------------------------------------------------------------
+  2:51 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  2:51 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  2:51 J;0;0;[KG]Xinerki
+  3:04 K;0;0;axis;[KG]Xinerki;0;-1;axis;[KG]Xinerki;destructible_car_mp;191;MOD_EXPLOSIVE;none
+  3:06 ShutdownGame:
+  3:06 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;[KG]Xinerki
+  0:54 J;6853;1;expendable.ethic
+  1:23 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;11;MOD_PISTOL_BULLET;left_leg_upper
+  1:24 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;14;MOD_PISTOL_BULLET;left_arm_upper
+  1:24 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;14;MOD_PISTOL_BULLET;right_leg_lower
+  1:24 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;15;MOD_PISTOL_BULLET;torso_lower
+  1:24 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;15;MOD_PISTOL_BULLET;torso_upper
+  1:24 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;15;MOD_PISTOL_BULLET;right_leg_upper
+  1:25 K;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;17;MOD_PISTOL_BULLET;left_leg_upper
+  1:38 ShutdownGame:
+  1:38 ------------------------------------------------------------
+  1:38 ------------------------------------------------------------
+  1:38 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:38 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:38 J;6853;1;expendable.ethic
+  1:38 J;0;0;[KG]Xinerki
+  1:58 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;22;MOD_PISTOL_BULLET;torso_lower
+  1:58 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;22;MOD_PISTOL_BULLET;torso_upper
+  1:58 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;22;MOD_PISTOL_BULLET;torso_lower
+  1:58 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;22;MOD_PISTOL_BULLET;torso_lower
+  1:58 K;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;22;MOD_PISTOL_BULLET;torso_upper
+  2:11 ShutdownGame:
+  2:11 ------------------------------------------------------------
+  2:11 ------------------------------------------------------------
+  2:11 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  2:11 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  2:11 J;6853;1;expendable.ethic
+  2:11 J;0;0;[KG]Xinerki
+  2:12 ShutdownGame:
+  2:12 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;[KG]Xinerki
+  0:50 J;6853;1;expendable.ethic
+  1:10 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;30;MOD_PISTOL_BULLET;torso_lower
+  1:10 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;30;MOD_PISTOL_BULLET;torso_lower
+  1:10 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;30;MOD_PISTOL_BULLET;torso_lower
+  1:11 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;30;MOD_PISTOL_BULLET;left_arm_upper
+  1:24 ShutdownGame:
+  1:24 ------------------------------------------------------------
+  1:24 ------------------------------------------------------------
+  1:24 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:24 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:24 J;6853;1;expendable.ethic
+  1:24 J;0;0;[KG]Xinerki
+  1:41 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;25;MOD_HEAD_SHOT;head
+  1:41 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;26;MOD_PISTOL_BULLET;left_arm_lower
+  1:41 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;26;MOD_PISTOL_BULLET;left_arm_upper
+  1:41 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;26;MOD_HEAD_SHOT;head
+  1:47 ShutdownGame:
+  1:47 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;[KG]Xinerki
+  0:39 J;6853;1;expendable.ethic
+  1:17 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;19;MOD_PISTOL_BULLET;left_arm_upper
+  1:17 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;18;MOD_PISTOL_BULLET;left_leg_lower
+  1:17 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;19;MOD_PISTOL_BULLET;left_arm_upper
+  1:17 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;19;MOD_HEAD_SHOT;head
+  1:18 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;21;MOD_HEAD_SHOT;head
+  1:18 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;23;MOD_PISTOL_BULLET;left_arm_lower
+  1:31 ShutdownGame:
+  1:31 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;[KG]Xinerki
+  0:32 J;6853;1;expendable.ethic
+  0:45 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;rottweil72_mp;40;MOD_PISTOL_BULLET;right_leg_upper
+  0:45 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;rottweil72_mp;40;MOD_PISTOL_BULLET;torso_lower
+  0:46 K;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;rottweil72_mp;40;MOD_PISTOL_BULLET;torso_lower
+  1:14 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;m1911_mp;55;MOD_HEAD_SHOT;head
+  1:15 K;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;sticky_grenade_mp;164;MOD_GRENADE_SPLASH;none
+  1:23 Weapon;6853;1;expendable.ethic;rottweil72_mp
+  1:45 D;0;0;axis;[KG]Xinerki;;-1;world;;none;8;MOD_FALLING;none
+  2:29 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;rottweil72_mp;40;MOD_PISTOL_BULLET;torso_lower
+  2:29 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;rottweil72_mp;40;MOD_PISTOL_BULLET;torso_lower
+  2:29 K;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;rottweil72_mp;40;MOD_PISTOL_BULLET;torso_lower
+  2:33 ShutdownGame:
+  2:33 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;[KG]Xinerki
+  0:32 J;6853;1;expendable.ethic
+  0:43 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;20;MOD_PISTOL_BULLET;left_hand
+  0:43 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;20;MOD_PISTOL_BULLET;left_hand
+  0:43 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;20;MOD_PISTOL_BULLET;left_arm_lower
+  0:44 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;19;MOD_HEAD_SHOT;head
+  0:44 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;20;MOD_PISTOL_BULLET;left_arm_lower
+  0:44 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;20;MOD_HEAD_SHOT;head
+  0:57 ShutdownGame:
+  0:57 ------------------------------------------------------------
+  0:57 ------------------------------------------------------------
+  0:57 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:57 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:57 J;6853;1;expendable.ethic
+  0:57 J;0;0;[KG]Xinerki
+  1:09 ShutdownGame:
+  1:09 ------------------------------------------------------------
+  1:09 ------------------------------------------------------------
+  1:09 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:09 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:09 J;0;0;[KG]Xinerki
+  1:19 J;6853;1;expendable.ethic
+  1:40 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;m16_mp;40;MOD_RIFLE_BULLET;left_leg_lower
+  1:40 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;m16_mp;40;MOD_RIFLE_BULLET;torso_lower
+  1:41 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;m16_mp;40;MOD_RIFLE_BULLET;torso_lower
+  2:24 ShutdownGame:
+  2:24 ------------------------------------------------------------
+  2:24 ------------------------------------------------------------
+  2:24 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  2:24 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  2:24 J;0;0;[KG]Xinerki
+  2:32 J;6853;1;expendable.ethic
+  2:56 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;m16_mp;55;MOD_HEAD_SHOT;head
+  2:56 K;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;m16_mp;55;MOD_HEAD_SHOT;head
+  3:16 ShutdownGame:
+  3:16 ------------------------------------------------------------
+  3:16 ------------------------------------------------------------
+  3:16 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  3:16 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  3:17 J;0;0;[KG]Xinerki
+  3:26 J;6853;1;expendable.ethic
+  3:51 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;m16_mp;34;MOD_RIFLE_BULLET;torso_lower
+  3:52 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;m16_mp;34;MOD_RIFLE_BULLET;left_leg_upper
+  3:52 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;m16_mp;34;MOD_RIFLE_BULLET;torso_lower
+  4:05 ShutdownGame:
+  4:05 ------------------------------------------------------------
+  4:05 ------------------------------------------------------------
+  4:05 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  4:05 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  4:05 J;6853;1;expendable.ethic
+  4:05 J;0;0;[KG]Xinerki
+  4:24 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;m16_mp;55;MOD_HEAD_SHOT;head
+  4:25 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;m16_mp;55;MOD_HEAD_SHOT;head
+  4:38 ShutdownGame:
+  4:38 ------------------------------------------------------------
+  4:38 ------------------------------------------------------------
+  4:38 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  4:38 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  4:38 J;6853;1;expendable.ethic
+  4:38 J;0;0;[KG]Xinerki
+  4:53 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;m16_mp;40;MOD_RIFLE_BULLET;torso_lower
+  4:53 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;m16_mp;40;MOD_RIFLE_BULLET;torso_lower
+  4:54 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;m16_mp;55;MOD_HEAD_SHOT;head
+  5:07 ShutdownGame:
+  5:07 ------------------------------------------------------------
+  5:07 ------------------------------------------------------------
+  5:07 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  5:07 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\tdm\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  5:07 J;6853;1;expendable.ethic
+  5:07 J;0;0;[KG]Xinerki
+  5:10 ShutdownGame:
+  5:10 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;[KG]Xinerki
+  0:32 J;6853;1;expendable.ethic
+  0:41 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;30;MOD_PISTOL_BULLET;left_leg_upper
+  0:41 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;30;MOD_PISTOL_BULLET;left_hand
+  0:41 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;30;MOD_HEAD_SHOT;head
+  0:42 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;30;MOD_PISTOL_BULLET;torso_upper
+  0:55 ShutdownGame:
+  0:55 ------------------------------------------------------------
+  0:55 ------------------------------------------------------------
+  0:55 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:55 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:55 J;6853;1;expendable.ethic
+  0:55 J;0;0;[KG]Xinerki
+  1:10 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;10;MOD_HEAD_SHOT;head
+  1:11 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;10;MOD_PISTOL_BULLET;torso_lower
+  1:11 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;10;MOD_PISTOL_BULLET;left_leg_upper
+  1:15 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;knife_mp;136;MOD_MELEE;right_leg_lower
+  1:29 ShutdownGame:
+  1:29 ------------------------------------------------------------
+  1:29 ------------------------------------------------------------
+  1:29 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:29 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:29 J;6853;1;expendable.ethic
+  1:29 J;0;0;[KG]Xinerki
+  1:36 K;6853;1;axis;expendable.ethic;;-1;world;;none;110;MOD_FALLING;none
+  1:50 ShutdownGame:
+  1:50 ------------------------------------------------------------
+  1:50 ------------------------------------------------------------
+  1:50 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:50 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:50 J;6853;1;expendable.ethic
+  1:50 J;0;0;[KG]Xinerki
+  2:09 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;30;MOD_HEAD_SHOT;head
+  2:09 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;30;MOD_HEAD_SHOT;head
+  2:09 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;30;MOD_HEAD_SHOT;head
+  2:09 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;30;MOD_HEAD_SHOT;head
+  2:22 ShutdownGame:
+  2:22 ------------------------------------------------------------
+  2:22 ------------------------------------------------------------
+  2:22 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  2:22 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  2:22 J;6853;1;expendable.ethic
+  2:22 J;0;0;[KG]Xinerki
+  2:38 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;23;MOD_PISTOL_BULLET;left_leg_upper
+  2:39 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;26;MOD_PISTOL_BULLET;left_hand
+  2:39 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;26;MOD_PISTOL_BULLET;right_leg_upper
+  2:39 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;26;MOD_PISTOL_BULLET;torso_lower
+  2:52 ShutdownGame:
+  2:52 ------------------------------------------------------------
+  2:52 ------------------------------------------------------------
+  2:52 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  2:52 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  2:52 J;6853;1;expendable.ethic
+  2:52 J;0;0;[KG]Xinerki
+  3:12 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;22;MOD_PISTOL_BULLET;torso_lower
+  3:12 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;22;MOD_PISTOL_BULLET;torso_upper
+  3:12 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;22;MOD_PISTOL_BULLET;right_leg_lower
+  3:12 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;23;MOD_PISTOL_BULLET;left_arm_lower
+  3:13 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;spas_mp;23;MOD_PISTOL_BULLET;right_hand
+  3:41 ShutdownGame:
+  3:41 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_firingrange\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;[KG]Xinerki
+  0:28 D;0;0;axis;[KG]Xinerki;;-1;world;;none;29;MOD_FALLING;none
+  0:39 J;6853;1;expendable.ethic
+  0:51 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;30;MOD_PISTOL_BULLET;neck
+  0:51 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;30;MOD_PISTOL_BULLET;left_arm_lower
+  0:51 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;30;MOD_HEAD_SHOT;head
+  0:51 K;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_mp;30;MOD_PISTOL_BULLET;torso_lower
+  1:05 ShutdownGame:
+  1:05 ------------------------------------------------------------
+  1:05 ------------------------------------------------------------
+  1:05 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:05 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:05 J;6853;1;expendable.ethic
+  1:05 J;0;0;[KG]Xinerki
+  1:25 K;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;rpg_mp;108;MOD_PROJECTILE_SPLASH;none
+  1:39 ShutdownGame:
+  1:39 ------------------------------------------------------------
+  1:39 ------------------------------------------------------------
+  1:39 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:39 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:39 J;6853;1;expendable.ethic
+  1:39 J;0;0;[KG]Xinerki
+  1:53 D;0;0;axis;[KG]Xinerki;6853;1;allies;expendable.ethic;uzi_elbit_mp;14;MOD_PISTOL_BULLET;torso_upper
+  1:53 D;0;0;axis;[KG]Xinerki;6853;1;allies;expendable.ethic;uzi_elbit_mp;14;MOD_PISTOL_BULLET;torso_upper
+  1:53 D;0;0;axis;[KG]Xinerki;6853;1;allies;expendable.ethic;uzi_elbit_mp;18;MOD_HEAD_SHOT;head
+  2:08 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;m1911_extclip_mp;55;MOD_HEAD_SHOT;head
+  2:08 K;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;m1911_extclip_mp;55;MOD_HEAD_SHOT;head
+  2:12 ShutdownGame:
+  2:12 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;[KG]Xinerki
+  0:35 J;6853;1;expendable.ethic
+  1:37 K;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;knife_mp;137;MOD_MELEE;torso_upper
+  1:42 ShutdownGame:
+  1:42 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;[KG]Xinerki
+  0:26 ShutdownGame:
+  0:26 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;[KG]Xinerki
+  0:34 D;0;0;allies;[KG]Xinerki;;-1;world;;none;33;MOD_FALLING;none
+  0:36 J;6853;1;expendable.ethic
+  0:43 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;python_speed_mp;32;MOD_PISTOL_BULLET;torso_lower
+  0:44 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;python_speed_mp;32;MOD_PISTOL_BULLET;torso_lower
+  0:44 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;python_speed_mp;32;MOD_PISTOL_BULLET;torso_lower
+  0:45 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;python_speed_mp;32;MOD_PISTOL_BULLET;torso_lower
+  0:58 ShutdownGame:
+  0:58 ------------------------------------------------------------
+  0:58 ------------------------------------------------------------
+  0:58 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:58 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:58 J;6853;1;expendable.ethic
+  0:58 J;0;0;[KG]Xinerki
+  1:16 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;python_speed_mp;55;MOD_HEAD_SHOT;head
+  1:16 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;python_speed_mp;55;MOD_HEAD_SHOT;head
+  1:19 ShutdownGame:
+  1:19 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:00 ShutdownGame:
+  0:00 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;[KG]Xinerki
+  0:23 D;0;0;axis;[KG]Xinerki;;-1;world;;none;88;MOD_FALLING;none
+  0:34 J;6853;1;expendable.ethic
+  0:46 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;rottweil72_mp;27;MOD_PISTOL_BULLET;torso_lower
+  0:46 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;rottweil72_mp;28;MOD_PISTOL_BULLET;torso_lower
+  0:47 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;rottweil72_mp;28;MOD_PISTOL_BULLET;left_leg_upper
+  0:47 K;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;rottweil72_mp;27;MOD_PISTOL_BULLET;torso_lower
+  1:00 ShutdownGame:
+  1:00 ------------------------------------------------------------
+  1:00 ------------------------------------------------------------
+  1:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:00 J;6853;1;expendable.ethic
+  1:00 J;0;0;[KG]Xinerki
+  1:16 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;famas_elbit_mp;35;MOD_RIFLE_BULLET;left_arm_upper
+  1:16 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;famas_elbit_mp;35;MOD_RIFLE_BULLET;neck
+  1:16 K;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;famas_elbit_mp;35;MOD_RIFLE_BULLET;torso_upper
+  1:29 ShutdownGame:
+  1:29 ------------------------------------------------------------
+  1:29 ------------------------------------------------------------
+  1:29 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:29 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:29 J;6853;1;expendable.ethic
+  1:29 J;0;0;[KG]Xinerki
+  1:53 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;m60_reflex_mp;55;MOD_HEAD_SHOT;head
+  1:53 K;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;m60_reflex_mp;55;MOD_HEAD_SHOT;head
+  2:06 ShutdownGame:
+  2:06 ------------------------------------------------------------
+  2:06 ------------------------------------------------------------
+  2:06 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  2:06 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  2:06 J;6853;1;expendable.ethic
+  2:06 J;0;0;[KG]Xinerki
+  2:18 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;makarov_extclip_mp;20;MOD_PISTOL_BULLET;torso_upper
+  2:19 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;makarov_extclip_mp;20;MOD_PISTOL_BULLET;left_arm_upper
+  2:19 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;makarov_extclip_mp;20;MOD_PISTOL_BULLET;torso_lower
+  2:19 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;makarov_extclip_mp;20;MOD_PISTOL_BULLET;left_arm_lower
+  2:19 K;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;makarov_extclip_mp;20;MOD_PISTOL_BULLET;torso_lower
+  2:35 ShutdownGame:
+  2:35 ------------------------------------------------------------
+  2:35 ------------------------------------------------------------
+  2:35 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  2:35 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  2:35 J;6853;1;expendable.ethic
+  2:35 J;0;0;[KG]Xinerki
+  2:54 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;m60_elbit_mp;28;MOD_RIFLE_BULLET;torso_lower
+  2:55 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;m60_elbit_mp;48;MOD_RIFLE_BULLET;torso_upper
+  2:55 K;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;m60_elbit_mp;49;MOD_RIFLE_BULLET;torso_upper
+  3:08 ShutdownGame:
+  3:08 ------------------------------------------------------------
+  3:08 ------------------------------------------------------------
+  3:08 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  3:08 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  3:08 J;6853;1;expendable.ethic
+  3:08 J;0;0;[KG]Xinerki
+  3:23 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;mpl_elbit_mp;21;MOD_PISTOL_BULLET;left_hand
+  3:24 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;mpl_elbit_mp;20;MOD_PISTOL_BULLET;right_leg_upper
+  3:24 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;mpl_elbit_mp;20;MOD_PISTOL_BULLET;torso_lower
+  3:24 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;mpl_elbit_mp;21;MOD_PISTOL_BULLET;right_arm_lower
+  3:24 K;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;mpl_elbit_mp;21;MOD_PISTOL_BULLET;right_hand
+  4:00 ExitLevel: executed
+  4:00 ShutdownGame:
+  4:00 ------------------------------------------------------------
+  4:00 ------------------------------------------------------------
+  4:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_array\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  4:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_array\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  4:01 J;0;0;[KG]Xinerki
+  4:17 J;6853;1;expendable.ethic
+  4:52 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;hk21_elbit_mp;40;MOD_RIFLE_BULLET;torso_lower
+  4:53 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;hk21_elbit_mp;40;MOD_RIFLE_BULLET;right_arm_upper
+  4:53 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;hk21_elbit_mp;40;MOD_RIFLE_BULLET;torso_upper
+  5:03 say;0;0;[KG]Xinerki;lol
+  5:06 ShutdownGame:
+  5:06 ------------------------------------------------------------
+  5:06 ------------------------------------------------------------
+  5:06 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_array\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  5:06 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_array\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  5:06 J;6853;1;expendable.ethic
+  5:06 J;0;0;[KG]Xinerki
+  5:30 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;hk21_reflex_mp;55;MOD_HEAD_SHOT;head
+  5:30 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;hk21_reflex_mp;55;MOD_HEAD_SHOT;head
+  5:44 ShutdownGame:
+  5:44 ------------------------------------------------------------
+  5:44 ------------------------------------------------------------
+  5:44 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_array\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  5:44 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_array\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  5:44 J;6853;1;expendable.ethic
+  5:44 J;0;0;[KG]Xinerki
+  6:17 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;kiparisdw_mp;30;MOD_PISTOL_BULLET;torso_lower
+  6:17 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;kiparisdw_mp;30;MOD_PISTOL_BULLET;torso_lower
+  6:56 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;kiparisdw_mp;41;MOD_HEAD_SHOT;head
+  6:56 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;kiparisdw_mp;41;MOD_HEAD_SHOT;head
+  6:56 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;kiparisdw_mp;30;MOD_PISTOL_BULLET;torso_lower
+  7:10 ShutdownGame:
+  7:10 ------------------------------------------------------------
+  7:10 ------------------------------------------------------------
+  7:10 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_array\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  7:10 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_array\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  7:10 J;6853;1;expendable.ethic
+  7:10 J;0;0;[KG]Xinerki
+  7:39 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;enfield_ir_mp;25;MOD_RIFLE_BULLET;torso_upper
+  7:41 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;enfield_ir_mp;34;MOD_HEAD_SHOT;head
+  7:41 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;enfield_ir_mp;25;MOD_RIFLE_BULLET;right_arm_upper
+  7:44 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;enfield_ir_mp;25;MOD_RIFLE_BULLET;torso_upper
+  7:57 ShutdownGame:
+  7:57 ------------------------------------------------------------
+  7:57 ------------------------------------------------------------
+  7:57 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_array\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  7:57 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_array\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  7:57 J;6853;1;expendable.ethic
+  7:57 J;0;0;[KG]Xinerki
+  8:35 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;hs10dw_mp;28;MOD_PISTOL_BULLET;torso_upper
+  8:35 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;hs10dw_mp;29;MOD_HEAD_SHOT;head
+  8:35 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;hs10dw_mp;29;MOD_PISTOL_BULLET;torso_lower
+  8:35 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;hs10dw_mp;30;MOD_PISTOL_BULLET;torso_lower
+  8:48 ShutdownGame:
+  8:48 ------------------------------------------------------------
+  8:48 ------------------------------------------------------------
+  8:48 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_array\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  8:48 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_array\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  8:48 J;6853;1;expendable.ethic
+  8:48 J;0;0;[KG]Xinerki
+  9:09 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;fnfal_silencer_mp;55;MOD_HEAD_SHOT;head
+  9:09 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;fnfal_silencer_mp;55;MOD_HEAD_SHOT;head
+  9:45 ExitLevel: executed
+  9:45 ShutdownGame:
+  9:45 ------------------------------------------------------------
+  9:45 ------------------------------------------------------------
+  9:45 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_cracked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  9:45 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_cracked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  9:46 J;0;0;[KG]Xinerki
+ 10:00 J;6853;1;expendable.ethic
+ 10:19 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;rottweil72_mp;34;MOD_PISTOL_BULLET;right_hand
+ 10:19 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;rottweil72_mp;32;MOD_PISTOL_BULLET;torso_lower
+ 10:19 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;rottweil72_mp;33;MOD_HEAD_SHOT;head
+ 10:20 K;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;rottweil72_mp;37;MOD_PISTOL_BULLET;left_leg_lower
+ 10:33 ShutdownGame:
+ 10:33 ------------------------------------------------------------
+ 10:33 ------------------------------------------------------------
+ 10:33 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_cracked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+ 10:33 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_cracked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+ 10:33 J;6853;1;expendable.ethic
+ 10:33 J;0;0;[KG]Xinerki
+ 10:43 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;commando_extclip_mp;30;MOD_RIFLE_BULLET;torso_upper
+ 10:43 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;commando_extclip_mp;30;MOD_RIFLE_BULLET;torso_lower
+ 10:43 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;commando_extclip_mp;30;MOD_RIFLE_BULLET;torso_lower
+ 10:45 K;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;commando_extclip_mp;30;MOD_RIFLE_BULLET;right_leg_upper
+ 11:01 ShutdownGame:
+ 11:01 ------------------------------------------------------------
+ 11:01 ------------------------------------------------------------
+ 11:01 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_cracked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+ 11:01 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_cracked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+ 11:01 J;6853;1;expendable.ethic
+ 11:01 J;0;0;[KG]Xinerki
+ 11:20 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_silencer_mp;12;MOD_PISTOL_BULLET;left_foot
+ 11:20 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_silencer_mp;13;MOD_HEAD_SHOT;head
+ 11:21 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_silencer_mp;14;MOD_PISTOL_BULLET;right_arm_upper
+ 11:21 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_silencer_mp;14;MOD_PISTOL_BULLET;left_leg_upper
+ 11:21 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_silencer_mp;14;MOD_PISTOL_BULLET;torso_upper
+ 11:21 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_silencer_mp;15;MOD_HEAD_SHOT;head
+ 11:21 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_silencer_mp;16;MOD_PISTOL_BULLET;neck
+ 11:21 K;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;spas_silencer_mp;16;MOD_PISTOL_BULLET;torso_lower
+ 11:34 ShutdownGame:
+ 11:34 ------------------------------------------------------------
+ 11:34 ------------------------------------------------------------
+ 11:34 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_cracked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+ 11:34 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_cracked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+ 11:34 J;6853;1;expendable.ethic
+ 11:34 J;0;0;[KG]Xinerki
+ 11:57 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;pm63dw_mp;30;MOD_PISTOL_BULLET;right_leg_upper
+ 11:57 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;pm63dw_mp;30;MOD_PISTOL_BULLET;right_leg_upper
+ 11:57 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;pm63dw_mp;30;MOD_PISTOL_BULLET;left_leg_upper
+ 11:57 K;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;pm63dw_mp;30;MOD_PISTOL_BULLET;left_leg_upper
+ 12:10 ShutdownGame:
+ 12:10 ------------------------------------------------------------
+ 12:10 ------------------------------------------------------------
+ 12:10 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_cracked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+ 12:10 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_cracked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+ 12:10 J;6853;1;expendable.ethic
+ 12:10 J;0;0;[KG]Xinerki
+ 12:19 D;0;0;axis;[KG]Xinerki;;-1;world;;none;19;MOD_FALLING;none
+ 12:35 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;ak47_elbit_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 12:35 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;ak47_elbit_mp;55;MOD_HEAD_SHOT;head
+ 12:35 K;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;ak47_elbit_mp;55;MOD_HEAD_SHOT;head
+ 12:48 ShutdownGame:
+ 12:48 ------------------------------------------------------------
+ 12:48 ------------------------------------------------------------
+ 12:48 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_cracked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+ 12:48 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_cracked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+ 12:48 J;6853;1;expendable.ethic
+ 12:48 J;0;0;[KG]Xinerki
+ 13:05 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;skorpiondw_mp;32;MOD_PISTOL_BULLET;right_leg_upper
+ 13:07 D;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;skorpiondw_mp;40;MOD_PISTOL_BULLET;torso_upper
+ 13:07 K;6853;1;allies;expendable.ethic;0;0;axis;[KG]Xinerki;skorpiondw_mp;40;MOD_PISTOL_BULLET;torso_lower
+ 13:43 ExitLevel: executed
+ 13:43 ShutdownGame:
+ 13:43 ------------------------------------------------------------
+ 13:43 ------------------------------------------------------------
+ 13:43 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_crisis\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+ 13:43 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_crisis\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+ 13:44 J;0;0;[KG]Xinerki
+ 13:58 J;6853;1;expendable.ethic
+ 14:27 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;pythondw_mp;44;MOD_PISTOL_BULLET;torso_lower
+ 14:28 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;pythondw_mp;45;MOD_PISTOL_BULLET;right_leg_upper
+ 14:29 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;pythondw_mp;50;MOD_PISTOL_BULLET;torso_lower
+ 14:40 ShutdownGame:
+ 14:40 ------------------------------------------------------------
+ 14:40 ------------------------------------------------------------
+ 14:40 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+ 14:40 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+ 14:42 J;0;0;[KG]Xinerki
+ 14:55 J;6853;1;expendable.ethic
+ 15:30 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;hk21_ir_mp;55;MOD_HEAD_SHOT;head
+ 15:30 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;hk21_ir_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 15:31 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;hk21_ir_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 15:44 ShutdownGame:
+ 15:44 ------------------------------------------------------------
+ 15:44 ------------------------------------------------------------
+ 15:44 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+ 15:44 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+ 15:44 J;6853;1;expendable.ethic
+ 15:44 J;0;0;[KG]Xinerki
+ 15:59 D;0;0;allies;[KG]Xinerki;;-1;world;;none;81;MOD_FALLING;none
+ 16:09 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;rpk_ir_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 16:09 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;rpk_ir_mp;40;MOD_RIFLE_BULLET;torso_upper
+ 16:10 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;rpk_ir_mp;55;MOD_HEAD_SHOT;head
+ 16:23 ShutdownGame:
+ 16:23 ------------------------------------------------------------
+ 16:23 ------------------------------------------------------------
+ 16:23 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+ 16:23 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+ 16:23 J;6853;1;expendable.ethic
+ 16:23 J;0;0;[KG]Xinerki
+ 16:37 D;0;0;allies;[KG]Xinerki;;-1;world;;none;28;MOD_FALLING;none
+ 16:49 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;g11_mp;32;MOD_RIFLE_BULLET;torso_lower
+ 16:50 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;g11_mp;32;MOD_RIFLE_BULLET;torso_upper
+ 16:50 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;g11_mp;32;MOD_RIFLE_BULLET;torso_upper
+ 16:50 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;g11_mp;32;MOD_RIFLE_BULLET;torso_upper
+ 17:03 ShutdownGame:
+ 17:03 ------------------------------------------------------------
+ 17:03 ------------------------------------------------------------
+ 17:03 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+ 17:03 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+ 17:03 J;6853;1;expendable.ethic
+ 17:03 J;0;0;[KG]Xinerki
+ 17:14 D;0;0;allies;[KG]Xinerki;;-1;world;;none;84;MOD_FALLING;none
+ 17:24 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;cz75_auto_mp;20;MOD_PISTOL_BULLET;left_hand
+ 17:25 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;cz75_auto_mp;20;MOD_PISTOL_BULLET;torso_lower
+ 17:25 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;cz75_auto_mp;20;MOD_PISTOL_BULLET;torso_lower
+ 17:25 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;cz75_auto_mp;20;MOD_PISTOL_BULLET;torso_lower
+ 17:26 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;cz75_auto_mp;27;MOD_HEAD_SHOT;head
+ 17:39 ShutdownGame:
+ 17:39 ------------------------------------------------------------
+ 17:39 ------------------------------------------------------------
+ 17:39 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+ 17:39 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+ 17:39 J;6853;1;expendable.ethic
+ 17:39 J;0;0;[KG]Xinerki
+ 18:05 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;g11_mp;48;MOD_HEAD_SHOT;head
+ 18:05 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;g11_mp;48;MOD_HEAD_SHOT;head
+ 18:05 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;g11_mp;48;MOD_HEAD_SHOT;head
+ 18:19 ShutdownGame:
+ 18:19 ------------------------------------------------------------
+ 18:19 ------------------------------------------------------------
+ 18:19 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+ 18:19 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_mountain\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+ 18:19 J;6853;1;expendable.ethic
+ 18:19 J;0;0;[KG]Xinerki
+ 18:30 D;0;0;allies;[KG]Xinerki;;-1;world;;none;84;MOD_FALLING;none
+ 18:38 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;m60_extclip_mp;43;MOD_RIFLE_BULLET;torso_lower
+ 18:39 D;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;m60_extclip_mp;43;MOD_RIFLE_BULLET;torso_lower
+ 18:39 K;6853;1;axis;expendable.ethic;0;0;allies;[KG]Xinerki;m60_extclip_mp;44;MOD_RIFLE_BULLET;torso_upper
+ 18:41 ShutdownGame:
+ 18:41 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;[KG]Xinerki
+  0:36 D;0;0;axis;[KG]Xinerki;;-1;world;;none;29;MOD_FALLING;none
+  1:28 D;0;0;axis;[KG]Xinerki;;-1;world;;none;4;MOD_FALLING;none
+  2:05 ShutdownGame:
+  2:05 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;1;[KG]Xinerki
+  0:05 J;0;0;[3arc]democlient
+  1:47 ShutdownGame:
+  1:47 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;[KG]Xinerki
+  0:32 D;0;0;allies;[KG]Xinerki;;-1;world;;none;29;MOD_FALLING;none
+  0:59 D;0;0;allies;[KG]Xinerki;;-1;world;;none;34;MOD_FALLING;none
+  1:14 D;0;0;allies;[KG]Xinerki;;-1;world;;none;22;MOD_FALLING;none
+  1:26 ShutdownGame:
+  1:26 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;[KG]Xinerki
+  1:04 ShutdownGame:
+  1:04 ------------------------------------------------------------
+  1:04 ------------------------------------------------------------
+  1:04 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:04 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:04 J;0;0;[KG]Xinerki
+  1:43 ShutdownGame:
+  1:43 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;[KG]Xinerki
+  1:05 ShutdownGame:
+  1:05 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;[KG]Xinerki
+  0:19 ShutdownGame:
+  0:19 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:03 J;0;0;[KG]Xinerki
+  1:20 ShutdownGame:
+  1:20 ------------------------------------------------------------
+  1:20 ------------------------------------------------------------
+  1:20 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:20 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:20 J;0;0;[KG]Xinerki
+  1:33 ShutdownGame:
+  1:33 ------------------------------------------------------------
+  1:33 ------------------------------------------------------------
+  1:33 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:33 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:34 J;0;0;[KG]Xinerki
+  2:18 ShutdownGame:
+  2:18 ------------------------------------------------------------
+  2:18 ------------------------------------------------------------
+  2:18 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  2:18 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  2:18 J;0;0;[KG]Xinerki
+  2:36 ShutdownGame:
+  2:36 ------------------------------------------------------------
+  2:36 ------------------------------------------------------------
+  2:36 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  2:36 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  2:36 J;0;0;[KG]Xinerki
+  3:08 ShutdownGame:
+  3:08 ------------------------------------------------------------
+  3:08 ------------------------------------------------------------
+  3:08 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  3:08 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  3:08 J;0;0;[KG]Xinerki
+  3:50 ShutdownGame:
+  3:50 ------------------------------------------------------------
+  3:50 ------------------------------------------------------------
+  3:50 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  3:50 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  3:50 J;0;0;[KG]Xinerki
+  4:54 ShutdownGame:
+  4:54 ------------------------------------------------------------
+  4:54 ------------------------------------------------------------
+  4:54 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  4:54 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  4:54 J;0;0;[KG]Xinerki
+  5:17 ShutdownGame:
+  5:17 ------------------------------------------------------------
+  5:17 ------------------------------------------------------------
+  5:17 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  5:17 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  5:17 J;0;0;[KG]Xinerki
+  5:41 ShutdownGame:
+  5:41 ------------------------------------------------------------
+  5:41 ------------------------------------------------------------
+  5:41 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  5:41 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  5:41 J;0;0;[KG]Xinerki
+  5:58 ShutdownGame:
+  5:58 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;1;[KG]Xinerki
+  0:05 J;0;0;[3arc]democlient
+  0:51 ShutdownGame:
+  0:51 ------------------------------------------------------------
+  0:51 ------------------------------------------------------------
+  0:51 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:51 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:51 J;0;1;[KG]Xinerki
+  0:51 ShutdownGame:
+  0:51 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;1;[KG]Xinerki
+  0:05 J;0;0;[3arc]democlient
+  0:10 ShutdownGame:
+  0:10 ------------------------------------------------------------
+  0:10 ------------------------------------------------------------
+  0:10 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:10 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:12 J;0;1;[KG]Xinerki
+  0:16 J;0;0;[3arc]democlient
+  0:31 ShutdownGame:
+  0:31 ------------------------------------------------------------
+  0:31 ------------------------------------------------------------
+  0:31 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:31 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:31 J;0;1;[KG]Xinerki
+  0:31 ShutdownGame:
+  0:31 ------------------------------------------------------------
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:00 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:02 J;0;0;[KG]Xinerki
+  0:23 ShutdownGame:
+  0:23 ------------------------------------------------------------
+  0:23 ------------------------------------------------------------
+  0:23 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  0:23 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  0:23 J;0;0;[KG]Xinerki
+  1:09 D;0;0;axis;[KG]Xinerki;;-1;world;;none;4;MOD_FALLING;none
+  1:47 ShutdownGame:
+  1:47 ------------------------------------------------------------
+  1:47 ------------------------------------------------------------
+  1:47 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  1:47 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  1:47 J;0;0;[KG]Xinerki
+  2:25 ShutdownGame:
+  2:25 ------------------------------------------------------------
+  2:25 ------------------------------------------------------------
+  2:25 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  2:25 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  2:25 J;0;0;[KG]Xinerki
+  3:13 ShutdownGame:
+  3:13 ------------------------------------------------------------
+  3:13 ------------------------------------------------------------
+  3:13 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  3:13 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  3:13 J;0;0;[KG]Xinerki
+  3:16 ShutdownGame:
+  3:16 ------------------------------------------------------------
+  3:16 ------------------------------------------------------------
+  3:16 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  3:16 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  3:16 J;0;0;[KG]Xinerki
+  3:19 ShutdownGame:
+  3:19 ------------------------------------------------------------
+  3:19 ------------------------------------------------------------
+  3:19 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  3:19 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  3:19 J;0;0;[KG]Xinerki
+  3:49 D;0;0;allies;[KG]Xinerki;;-1;world;;none;34;MOD_FALLING;none
+  3:51 ShutdownGame:
+  3:51 ------------------------------------------------------------
+  3:51 ------------------------------------------------------------
+  3:51 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  3:51 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  3:51 J;0;0;[KG]Xinerki
+  4:33 D;0;0;axis;[KG]Xinerki;;-1;world;;none;17;MOD_FALLING;none
+  5:04 D;0;0;axis;[KG]Xinerki;;-1;world;;none;87;MOD_FALLING;none
+  5:08 ShutdownGame:
+  5:08 ------------------------------------------------------------
+  5:08 ------------------------------------------------------------
+  5:08 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  5:08 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  5:08 J;0;0;[KG]Xinerki
+  5:24 ShutdownGame:
+  5:24 ------------------------------------------------------------
+  5:24 ------------------------------------------------------------
+  5:24 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  5:24 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  5:24 J;0;0;[KG]Xinerki
+  6:03 ShutdownGame:
+  6:03 ------------------------------------------------------------
+  6:03 ------------------------------------------------------------
+  6:03 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  6:03 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  6:03 J;0;0;[KG]Xinerki
+  7:07 ShutdownGame:
+  7:07 ------------------------------------------------------------
+  7:07 ------------------------------------------------------------
+  7:07 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  7:07 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  7:07 J;0;0;[KG]Xinerki
+  8:05 D;0;0;axis;[KG]Xinerki;;-1;world;;none;35;MOD_FALLING;none
+  8:18 D;0;0;axis;[KG]Xinerki;;-1;world;;none;6;MOD_FALLING;none
+  8:48 D;0;0;axis;[KG]Xinerki;;-1;world;;none;11;MOD_FALLING;none
+  9:01 ShutdownGame:
+  9:01 ------------------------------------------------------------
+  9:01 ------------------------------------------------------------
+  9:01 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+  9:01 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+  9:01 J;0;0;[KG]Xinerki
+ 10:42 ShutdownGame:
+ 10:42 ------------------------------------------------------------
+ 10:42 ------------------------------------------------------------
+ 10:42 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+ 10:42 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+ 10:42 J;0;0;[KG]Xinerki
+ 11:23 ShutdownGame:
+ 11:23 ------------------------------------------------------------
+ 11:23 ------------------------------------------------------------
+ 11:23 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0
+ 11:23 InitGame: \com_maxclients\32\fs_game\mods/mp_duel\g_gametype\duel\mapname\mp_nuked\playlist\1\playlist_enabled\0\playlist_entry\0\protocol\2117\scr_team_fftype\0\shortversion\7\sv_disableClientConsole\0\sv_floodprotect\4\sv_hostname\cum\sv_maxclients\4\sv_maxPing\0\sv_maxRate\5000\sv_minPing\0\sv_ranked\0\sv_security\1\sv_voice\0\xblive_basictraining\0\xblive_privatematch\0\xblive_rankedmatch\0\xblive_wagermatch\0\g_logTimeStampInSeconds\0
+ 11:24 J;0;0;[KG]Xinerki
+ 11:48 Q;0;0;[KG]Xinerki
+ 11:48 ShutdownGame:
+ 11:48 ------------------------------------------------------------

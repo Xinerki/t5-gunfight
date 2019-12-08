@@ -1,0 +1,6 @@
+rawfile,maps/mp/gametypes/_gametypes.txt
+rawfile,maps/mp/gametypes/duel.txt
+rawfile,maps/mp/gametypes/duel.gsc
+stringtable,mp/gametypestable.csv
+localize,duel
+rawfile,myWhitelist.cfg
