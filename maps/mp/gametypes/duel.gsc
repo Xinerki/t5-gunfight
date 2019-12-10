@@ -146,8 +146,6 @@ addLethalToList( gunName, altName )
 }
 giveCustomLoadout( takeAllWeapons, alreadySpawned )
 {
-	wait(0.1);
-
 	// if ( !IsDefined( gunCycle ) )
 		// gunCycle = 1;
 	
