@@ -146,6 +146,8 @@ addLethalToList( gunName, altName )
 }
 giveCustomLoadout( takeAllWeapons, alreadySpawned )
 {
+	wait(0.1);
+
 	// if ( !IsDefined( gunCycle ) )
 		// gunCycle = 1;
 	
@@ -204,9 +206,67 @@ giveCustomLoadout( takeAllWeapons, alreadySpawned )
 	// currentWeapon = level.duelRandomWeapon;
 	// currentWeapon = level.gunProgression[0].names[0];
 	// self.gunProgress++;
+
+	level.duel_primary_image = newHudElem( self );
+	level.duel_primary_image.sort = -1;
+	level.duel_primary_image.horzAlign = "center";
+	level.duel_primary_image.vertAlign = "middle";
+	level.duel_primary_image.alignX = "center";
+	level.duel_primary_image.alignY = "middle";
+	level.duel_primary_image.alpha = 1;
+	level.duel_primary_image.x = -256;
+	level.duel_primary_image.y = -128;
+	level.duel_primary_image SetShader( level.hudPrimary, 128, 64 );
+
+	level.duel_secondary_image = newHudElem( self );
+	level.duel_secondary_image.sort = -1;
+	level.duel_secondary_image.horzAlign = "center";
+	level.duel_secondary_image.vertAlign = "middle";
+	level.duel_secondary_image.alignX = "center";
+	level.duel_secondary_image.alignY = "middle";
+	level.duel_secondary_image.alpha = 1;
+	level.duel_secondary_image.x = -256;
+	level.duel_secondary_image.y = -64;
+	level.duel_secondary_image SetShader( level.hudSecondary, 128, 64 );
+
+	level.duel_lethal_image = newHudElem( self );
+	level.duel_lethal_image.sort = -1;
+	level.duel_lethal_image.horzAlign = "center";
+	level.duel_lethal_image.vertAlign = "middle";
+	level.duel_lethal_image.alignX = "center";
+	level.duel_lethal_image.alignY = "middle";
+	level.duel_lethal_image.alpha = 1;
+	level.duel_lethal_image.x = -256;
+	level.duel_lethal_image.y = 0;
+	level.duel_lethal_image SetShader( level.hudLethal, 64, 64 );
 	
+	// text temporarily disabled until i figure out how it works
+	/*
+	level.duel_weapon_text = newHudElem( self );
+	level.duel_weapon_text.sort = -1;
+	level.duel_weapon_text.horzAlign = "center";
+	level.duel_weapon_text.vertAlign = "bottom";
+	level.duel_weapon_text.alignX = "center";
+	level.duel_weapon_text.alignY = "bottom";
+	level.duel_weapon_text.alpha = 0;
+	level.duel_weapon_text.x = 256;
+	level.duel_weapon_text.y = -128;
+	level.duel_weapon_text.fontscale = 1.5;
+	level.duel_weapon_text SetText( level.duelPrimaryWeapon );
+	level.duel_weapon_text FadeOverTime( 3 );
+	level.duel_weapon_text.alpha = 0;
+	(
+	*/
+
+	if (currentPrimary == "spas_mp" || currentPrimary == "ithaca_grip_mp" || currentPrimary == "rottweil72_mp" || currentPrimary == "china_lake_mp")
+	{
+		level.duel_secondary_image.alpha = 0;
+		level.duel_lethal_image.alpha = 0;
+	}
+
 	self giveWeapon( "knife_mp" );	
 	self EnableWeaponCycling();
+	
 	return currentWeapon;
 }
 chooseRandomGuns()
@@ -218,29 +278,41 @@ chooseRandomGuns()
 	level.duelSecondaryWeapon = random(level.secondaryList).names[0];
 	level.duelLethal = random(level.lethalList).names[0];
 
-/*
-	hudPrimary = "menu_mp_weapons_" + level.duelPrimaryWeapon;
+	if (level.duelPrimaryWeapon == "ithaca_grip")
+		level.hudPrimary = "menu_mp_weapons_ithaca";
+	else if (level.duelPrimaryWeapon == "psg1_acog")
+		level.hudPrimary = "menu_mp_weapons_psg1";
+	else if (level.duelPrimaryWeapon == "stoner63")
+		level.hudPrimary = "menu_mp_weapons_stoner63a";
+	else if (level.duelPrimaryWeapon == "crossbow_explosive")
+		level.hudPrimary = "menu_mp_weapons_crossbow";
+	else
+		level.hudPrimary = "menu_mp_weapons_" + level.duelPrimaryWeapon;
 
 	if (level.duelSecondaryWeapon == "python_speed")
-		hudSecondary = "menu_mp_weapons_python";
+		level.hudSecondary = "menu_mp_weapons_python";
+	else if (level.duelSecondaryWeapon == "m1911")
+		level.hudSecondary = "menu_mp_weapons_colt";
 	else
-		hudSecondary = "menu_mp_weapons_" + level.duelSecondaryWeapon;
+		level.hudSecondary = "menu_mp_weapons_" + level.duelSecondaryWeapon;
 
-	hudLethal = "menu_mp_weapons_" + level.duelLethal;
+	if (level.duelLethal == "frag_grenade")
+		level.hudLethal = "grenadeicon";
+	else
+		level.hudLethal = "hud_" + level.duelLethal;
 	
-	PreCacheShader(hudPrimary);
+	PreCacheShader(level.hudPrimary);
+	PreCacheShader(level.hudSecondary);
+	PreCacheShader(level.hudLethal);
+	//PreCacheString(level.duelPrimaryWeapon);
 
-	level.duel_weapon_image = NewTeamHudElem( game[ "attackers" ] );
-	level.duel_weapon_image.sort = -1;
-	level.duel_weapon_image.horzAlign = "center";
-	level.duel_weapon_image.vertAlign = "middle";
-	level.duel_weapon_image.alignX = "center";
-	level.duel_weapon_image.alignY = "middle";
-	level.duel_weapon_image.alpha = 1;
-	level.duel_weapon_image.x = 128;
-	level.duel_weapon_image.y = 64;
-	level.duel_weapon_image SetShader( hudPrimary, 128, 64 );
-*/
+	wait(5);
+	level.duel_primary_image FadeOverTime( 3 );
+	level.duel_primary_image.alpha = 0;
+	level.duel_secondary_image FadeOverTime( 3 );
+	level.duel_secondary_image.alpha = 0;
+	level.duel_lethal_image FadeOverTime( 3 );
+	level.duel_lethal_image.alpha = 0;
 }
 getRandomGunFromProgression()
 {	
