@@ -218,6 +218,7 @@ chooseRandomGuns()
 	level.duelSecondaryWeapon = random(level.secondaryList).names[0];
 	level.duelLethal = random(level.lethalList).names[0];
 
+/*
 	hudPrimary = "menu_mp_weapons_" + level.duelPrimaryWeapon;
 
 	if (level.duelSecondaryWeapon == "python_speed")
@@ -239,6 +240,7 @@ chooseRandomGuns()
 	level.duel_weapon_image.x = 128;
 	level.duel_weapon_image.y = 64;
 	level.duel_weapon_image SetShader( hudPrimary, 128, 64 );
+*/
 }
 getRandomGunFromProgression()
 {	
