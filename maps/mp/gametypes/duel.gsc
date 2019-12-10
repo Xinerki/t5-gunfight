@@ -104,7 +104,7 @@ main()
 	addLethalToList( "frag_grenade_mp" );
 	addLethalToList( "sticky_grenade_mp" );
 	addLethalToList( "hatchet_mp" );
-	addLethalToList( "claymore_mp" );
+	//addLethalToList( "claymore_mp" );
 	
 	setscoreboardcolumns( "kills", "deaths", "assists" ); 
 }
