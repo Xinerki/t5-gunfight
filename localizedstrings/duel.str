@@ -14,7 +14,7 @@ CONFIG              "C:\projects\cod\t5\bin\StringEd.cfg"
 FILENOTES           ""
 
 REFERENCE           TITLE
-LANG_ENGLISH        "2v2 Gunfight"
+LANG_ENGLISH        "Gunfight"
 
 REFERENCE           TITLE_CAPS
 LANG_ENGLISH        "GUNFIGHT"
@@ -29,7 +29,7 @@ REFERENCE           WIN_MATCH
 LANG_ENGLISH        ""
 
 REFERENCE           WIN_ROUND
-LANG_ENGLISH        "Enemy team have reached the limit!"
+LANG_ENGLISH        "Enemy team has reached the limit!"
 
 REFERENCE           MISSION_ACCOMPLISHED
 LANG_ENGLISH        "Enemy team mission accomplished"

@@ -100,9 +100,13 @@ main()
 	addSecondaryToList( "cz75_mp" );
 	// addSecondaryToList( "knife_ballistic_mp" );
 	
-	// addGunToProgression(getRandomGunFromProgression());
+	// LETHAL THROWABLES
+	addLethalToList( "frag_grenade_mp" );
+	addLethalToList( "sticky_grenade_mp" );
+	addLethalToList( "hatchet_mp" );
+	addLethalToList( "claymore_mp" );
 	
-	setscoreboardcolumns( "kills", "deaths", "kdratio", "assists" ); 
+	setscoreboardcolumns( "kills", "deaths", "assists" ); 
 }
 addPrimaryToList( gunName, altName )
 {
@@ -127,6 +131,18 @@ addSecondaryToList( gunName, altName )
 	if ( IsDefined( altName ) )
 		newWeapon.names[newWeapon.names.size] = altName;
 	level.secondaryList[level.secondaryList.size] = newWeapon;
+}
+addLethalToList( gunName, altName )
+{
+	if ( !IsDefined( level.lethalList ) )
+		level.lethalList = [];
+	
+	newWeapon = SpawnStruct();
+	newWeapon.names = [];
+	newWeapon.names[newWeapon.names.size] = gunName;
+	if ( IsDefined( altName ) )
+		newWeapon.names[newWeapon.names.size] = altName;
+	level.lethalList[level.lethalList.size] = newWeapon;
 }
 giveCustomLoadout( takeAllWeapons, alreadySpawned )
 {
@@ -160,10 +176,16 @@ giveCustomLoadout( takeAllWeapons, alreadySpawned )
 	
 	currentPrimary = level.duelPrimaryWeapon;
 	currentSecondary = level.duelSecondaryWeapon;
+	currentLethal = level.duelLethal;
 	
 	if (currentPrimary != "spas_mp" && currentPrimary != "ithaca_grip_mp" && currentPrimary != "rottweil72_mp" && currentPrimary != "china_lake_mp")
 	{
 		currentWeapon = currentSecondary;
+		self giveWeapon( currentWeapon );	
+		if ( !IsDefined( alreadySpawned ) || !alreadySpawned )
+			self setSpawnWeapon( currentWeapon );
+			
+		currentWeapon = currentLethal;
 		self giveWeapon( currentWeapon );	
 		if ( !IsDefined( alreadySpawned ) || !alreadySpawned )
 			self setSpawnWeapon( currentWeapon );
@@ -190,6 +212,7 @@ chooseRandomGuns()
 	// level.duelRandomWeapon = getRandomGunFromProgression();
 	level.duelPrimaryWeapon = random(level.primaryList).names[0];
 	level.duelSecondaryWeapon = random(level.secondaryList).names[0];
+	level.duelLethal = random(level.lethalList).names[0];
 }
 getRandomGunFromProgression()
 {	
