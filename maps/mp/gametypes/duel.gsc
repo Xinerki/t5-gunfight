@@ -73,7 +73,7 @@ main()
 	addPrimaryToList ( "famas_mp" );
 	addPrimaryToList ( "uzi_mp" );
 	addPrimaryToList ( "commando_mp" );
-	addPrimaryToList ( "fnfal_mp" );
+	addPrimaryToList ( "china_lake_mp" );
 	addPrimaryToList ( "psg1_acog_mp" );
 	addPrimaryToList ( "galil_mp" );
 	addPrimaryToList ( "stoner63_mp" );
@@ -147,7 +147,7 @@ giveCustomLoadout( takeAllWeapons, alreadySpawned )
 	currentPrimary = level.duelPrimaryWeapon;
 	currentSecondary = level.duelSecondaryWeapon;
 	
-	if (currentPrimary != "spas_mp" && currentPrimary != "ithaca_grip_mp" && currentPrimary != "rottweil72_mp")
+	if (currentPrimary != "spas_mp" && currentPrimary != "ithaca_grip_mp" && currentPrimary != "rottweil72_mp" && currentPrimary != "china_lake_mp")
 	{
 		currentWeapon = currentSecondary;
 		self giveWeapon( currentWeapon );	
