@@ -146,6 +146,8 @@ addLethalToList( gunName, altName )
 }
 giveCustomLoadout( takeAllWeapons, alreadySpawned )
 {
+	wait(0.1);
+
 	// if ( !IsDefined( gunCycle ) )
 		// gunCycle = 1;
 	
@@ -212,7 +214,7 @@ giveCustomLoadout( takeAllWeapons, alreadySpawned )
 	level.duel_primary_image.alignX = "center";
 	level.duel_primary_image.alignY = "middle";
 	level.duel_primary_image.alpha = 1;
-	level.duel_primary_image.x = 256;
+	level.duel_primary_image.x = -256;
 	level.duel_primary_image.y = -128;
 	level.duel_primary_image SetShader( level.hudPrimary, 128, 64 );
 
@@ -223,7 +225,7 @@ giveCustomLoadout( takeAllWeapons, alreadySpawned )
 	level.duel_secondary_image.alignX = "center";
 	level.duel_secondary_image.alignY = "middle";
 	level.duel_secondary_image.alpha = 1;
-	level.duel_secondary_image.x = 256;
+	level.duel_secondary_image.x = -256;
 	level.duel_secondary_image.y = -64;
 	level.duel_secondary_image SetShader( level.hudSecondary, 128, 64 );
 
@@ -234,9 +236,9 @@ giveCustomLoadout( takeAllWeapons, alreadySpawned )
 	level.duel_lethal_image.alignX = "center";
 	level.duel_lethal_image.alignY = "middle";
 	level.duel_lethal_image.alpha = 1;
-	level.duel_lethal_image.x = 256;
+	level.duel_lethal_image.x = -256;
 	level.duel_lethal_image.y = 0;
-	level.duel_lethal_image SetShader( level.hudLethal, 128, 64 );
+	level.duel_lethal_image SetShader( level.hudLethal, 64, 64 );
 	
 	// text temporarily disabled until i figure out how it works
 	/*
@@ -256,16 +258,15 @@ giveCustomLoadout( takeAllWeapons, alreadySpawned )
 	(
 	*/
 
+	if (currentPrimary == "spas_mp" || currentPrimary == "ithaca_grip_mp" || currentPrimary == "rottweil72_mp" || currentPrimary == "china_lake_mp")
+	{
+		level.duel_secondary_image.alpha = 0;
+		level.duel_lethal_image.alpha = 0;
+	}
+
 	self giveWeapon( "knife_mp" );	
 	self EnableWeaponCycling();
-
-	Wait(5);
-	level.duel_primary_image FadeOverTime( 3 );
-	level.duel_primary_image.alpha = 0;
-	level.duel_secondary_image FadeOverTime( 3 );
-	level.duel_secondary_image.alpha = 0;
-	level.duel_lethal_image FadeOverTime( 3 );
-	level.duel_lethal_image.alpha = 0;
+	
 	return currentWeapon;
 }
 chooseRandomGuns()
@@ -277,17 +278,41 @@ chooseRandomGuns()
 	level.duelSecondaryWeapon = random(level.secondaryList).names[0];
 	level.duelLethal = random(level.lethalList).names[0];
 
-	level.hudPrimary = "menu_mp_weapons_" + level.duelPrimaryWeapon;
+	if (level.duelPrimaryWeapon == "ithaca_grip")
+		level.hudPrimary = "menu_mp_weapons_ithaca";
+	else if (level.duelPrimaryWeapon == "psg1_acog")
+		level.hudPrimary = "menu_mp_weapons_psg1";
+	else if (level.duelPrimaryWeapon == "stoner63")
+		level.hudPrimary = "menu_mp_weapons_stoner63a";
+	else if (level.duelPrimaryWeapon == "crossbow_explosive")
+		level.hudPrimary = "menu_mp_weapons_crossbow";
+	else
+		level.hudPrimary = "menu_mp_weapons_" + level.duelPrimaryWeapon;
 
 	if (level.duelSecondaryWeapon == "python_speed")
-		hudSecondary = "menu_mp_weapons_python";
+		level.hudSecondary = "menu_mp_weapons_python";
+	else if (level.duelSecondaryWeapon == "m1911")
+		level.hudSecondary = "menu_mp_weapons_colt";
 	else
-		hudSecondary = "menu_mp_weapons_" + level.duelSecondaryWeapon;
+		level.hudSecondary = "menu_mp_weapons_" + level.duelSecondaryWeapon;
 
-	hudLethal = "menu_mp_weapons_" + level.duelLethal;
+	if (level.duelLethal == "frag_grenade")
+		level.hudLethal = "grenadeicon";
+	else
+		level.hudLethal = "hud_" + level.duelLethal;
 	
 	PreCacheShader(level.hudPrimary);
+	PreCacheShader(level.hudSecondary);
+	PreCacheShader(level.hudLethal);
 	//PreCacheString(level.duelPrimaryWeapon);
+
+	wait(5);
+	level.duel_primary_image FadeOverTime( 3 );
+	level.duel_primary_image.alpha = 0;
+	level.duel_secondary_image FadeOverTime( 3 );
+	level.duel_secondary_image.alpha = 0;
+	level.duel_lethal_image FadeOverTime( 3 );
+	level.duel_lethal_image.alpha = 0;
 }
 getRandomGunFromProgression()
 {	
