@@ -63,47 +63,47 @@ main()
 	// addGunToProgression( "knife_ballistic_mp" );
 	
 	// SMGS
-	addPrimaryToList ( "mp5k_mp" );
-	addPrimaryToList ( "uzi_mp" );
-	addPrimaryToList ( "mpl_mp" );
-	addPrimaryToList ( "mac11_mp" );
+	addPrimaryToList ( "mp5k" );
+	addPrimaryToList ( "uzi" );
+	addPrimaryToList ( "mpl" );
+	addPrimaryToList ( "mac11" );
 
 	// SHOTGUNS
-	addPrimaryToList ( "spas_mp" );
-	addPrimaryToList ( "ithaca_grip_mp" );
-	addPrimaryToList ( "rottweil72_mp" );
+	addPrimaryToList ( "spas" );
+	addPrimaryToList ( "ithaca_grip" );
+	addPrimaryToList ( "rottweil72" );
 
 	// RIFLES
-	addPrimaryToList ( "m14_mp" );
-	addPrimaryToList ( "l96a1_mp" );
-	addPrimaryToList ( "psg1_acog_mp" );
+	addPrimaryToList ( "m14" );
+	addPrimaryToList ( "l96a1" );
+	addPrimaryToList ( "psg1_acog" );
 
 	// ASSAULT RIFLES
-	addPrimaryToList ( "ak47_mp" );
-	addPrimaryToList ( "m16_mp" );
-	addPrimaryToList ( "famas_mp" );
-	addPrimaryToList ( "commando_mp" );
-	addPrimaryToList ( "galil_mp" );
+	addPrimaryToList ( "ak47" );
+	addPrimaryToList ( "m16" );
+	addPrimaryToList ( "famas" );
+	addPrimaryToList ( "commando" );
+	addPrimaryToList ( "galil" );
 
 	// LMGS
-	addPrimaryToList ( "stoner63_mp" ); // this is an lmg trust me
-	addPrimaryToList ( "hk21_mp" );
+	addPrimaryToList ( "stoner63" ); // this is an lmg trust me
+	addPrimaryToList ( "hk21" );
 	
 	// SPECIAL
-	addPrimaryToList ( "china_lake_mp" );
-	addPrimaryToList ( "crossbow_explosive_mp", "explosive_bolt_mp" );
+	addPrimaryToList ( "china_lake" );
+	addPrimaryToList ( "crossbow_explosive", "explosive_bolt" );
 	
 	// SECONDARIES
-	addSecondaryToList( "python_speed_mp" );
-	addSecondaryToList( "makarov_mp" );
-	addSecondaryToList( "m1911_mp" );
-	addSecondaryToList( "cz75_mp" );
+	addSecondaryToList( "python_speed" );
+	addSecondaryToList( "makarov" );
+	addSecondaryToList( "m1911" );
+	addSecondaryToList( "cz75" );
 	// addSecondaryToList( "knife_ballistic_mp" );
 	
 	// LETHAL THROWABLES
-	addLethalToList( "frag_grenade_mp" );
-	addLethalToList( "sticky_grenade_mp" );
-	addLethalToList( "hatchet_mp" );
+	addLethalToList( "frag_grenade" );
+	addLethalToList( "sticky_grenade" );
+	addLethalToList( "hatchet" );
 	//addLethalToList( "claymore_mp" );
 	
 	setscoreboardcolumns( "kills", "deaths", "assists" ); 
@@ -174,9 +174,9 @@ giveCustomLoadout( takeAllWeapons, alreadySpawned )
 	
 	// currentWeapon = "ray_gun_mp";
 	
-	currentPrimary = level.duelPrimaryWeapon;
-	currentSecondary = level.duelSecondaryWeapon;
-	currentLethal = level.duelLethal;
+	currentPrimary = level.duelPrimaryWeapon + "_mp";
+	currentSecondary = level.duelSecondaryWeapon + "_mp";
+	currentLethal = level.duelLethal + "_mp";
 	
 	if (currentPrimary != "spas_mp" && currentPrimary != "ithaca_grip_mp" && currentPrimary != "rottweil72_mp" && currentPrimary != "china_lake_mp")
 	{
@@ -196,6 +196,10 @@ giveCustomLoadout( takeAllWeapons, alreadySpawned )
 	self giveWeapon( currentWeapon );	
 	if ( !IsDefined( alreadySpawned ) || !alreadySpawned )
 		self setSpawnWeapon( currentWeapon );
+
+	println( "^5GiveWeapon( " + currentPrimary + " ) -- currentPrimary" );
+	println( "^5GiveWeapon( " + currentSecondary + " ) -- currentSecondary" );
+	println( "^5GiveWeapon( " + currentLethal + " ) -- currentLethal" );
 	
 	// currentWeapon = level.duelRandomWeapon;
 	// currentWeapon = level.gunProgression[0].names[0];
@@ -213,6 +217,28 @@ chooseRandomGuns()
 	level.duelPrimaryWeapon = random(level.primaryList).names[0];
 	level.duelSecondaryWeapon = random(level.secondaryList).names[0];
 	level.duelLethal = random(level.lethalList).names[0];
+
+	hudPrimary = "menu_mp_weapons_" + level.duelPrimaryWeapon;
+
+	if (level.duelSecondaryWeapon == "python_speed")
+		hudSecondary = "menu_mp_weapons_python";
+	else
+		hudSecondary = "menu_mp_weapons_" + level.duelSecondaryWeapon;
+
+	hudLethal = "menu_mp_weapons_" + level.duelLethal;
+	
+	PreCacheShader(hudPrimary);
+
+	level.duel_weapon_image = NewTeamHudElem( game[ "attackers" ] );
+	level.duel_weapon_image.sort = -1;
+	level.duel_weapon_image.horzAlign = "center";
+	level.duel_weapon_image.vertAlign = "middle";
+	level.duel_weapon_image.alignX = "center";
+	level.duel_weapon_image.alignY = "middle";
+	level.duel_weapon_image.alpha = 1;
+	level.duel_weapon_image.x = 128;
+	level.duel_weapon_image.y = 64;
+	level.duel_weapon_image SetShader( hudPrimary, 128, 64 );
 }
 getRandomGunFromProgression()
 {	
