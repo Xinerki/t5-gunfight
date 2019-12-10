@@ -62,24 +62,38 @@ main()
 	// addGunToProgression( "crossbow_explosive_mp", "explosive_bolt_mp" );
 	// addGunToProgression( "knife_ballistic_mp" );
 	
+	// SMGS
+	addPrimaryToList ( "mp5k_mp" );
+	addPrimaryToList ( "uzi_mp" );
+	addPrimaryToList ( "mpl_mp" );
+	addPrimaryToList ( "mac11_mp" );
+
+	// SHOTGUNS
 	addPrimaryToList ( "spas_mp" );
 	addPrimaryToList ( "ithaca_grip_mp" );
 	addPrimaryToList ( "rottweil72_mp" );
-	addPrimaryToList ( "mp5k_mp" );
-	addPrimaryToList ( "ak47_mp" );
+
+	// RIFLES
 	addPrimaryToList ( "m14_mp" );
-	addPrimaryToList ( "m16_mp" );
 	addPrimaryToList ( "l96a1_mp" );
-	addPrimaryToList ( "famas_mp" );
-	addPrimaryToList ( "uzi_mp" );
-	addPrimaryToList ( "commando_mp" );
-	addPrimaryToList ( "china_lake_mp" );
 	addPrimaryToList ( "psg1_acog_mp" );
+
+	// ASSAULT RIFLES
+	addPrimaryToList ( "ak47_mp" );
+	addPrimaryToList ( "m16_mp" );
+	addPrimaryToList ( "famas_mp" );
+	addPrimaryToList ( "commando_mp" );
 	addPrimaryToList ( "galil_mp" );
-	addPrimaryToList ( "stoner63_mp" );
-	addPrimaryToList ( "mpl_mp" );
-	addPrimaryToList ( "mac11_mp" );
+
+	// LMGS
+	addPrimaryToList ( "stoner63_mp" ); // this is an lmg trust me
+	addPrimaryToList ( "hk21_mp" );
 	
+	// SPECIAL
+	addPrimaryToList ( "china_lake_mp" );
+	addPrimaryToList ( "crossbow_explosive_mp", "explosive_bolt_mp" );
+	
+	// SECONDARIES
 	addSecondaryToList( "python_speed_mp" );
 	addSecondaryToList( "makarov_mp" );
 	addSecondaryToList( "m1911_mp" );
