@@ -351,6 +351,7 @@ chooseRandomGuns()
 	PreCacheShader(level.hudPrimary);
 	PreCacheShader(level.hudSecondary);
 	PreCacheShader(level.hudLethal);
+	PrecacheItem( "minigun_wager_mp" );
 }
 getRandomGunFromProgression()
 {	
