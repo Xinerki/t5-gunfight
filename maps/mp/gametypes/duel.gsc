@@ -246,14 +246,12 @@ showWeaponInfo(index, hudIcon, text, yPos)
 fadeWeaponInfo(icon, text)
 {
 	wait(5);
-
-	text fadeOverTime( 0.3 );
-	text.alpha = 0;
-
-	wait( 0.3 );
 	
 	icon moveOverTime( 0.3 );
-	icon.x = 50;
+	icon.x = 400;
+
+	text moveOverTime( 0.3 );
+	text.x = 400;
 	return;
 }
 
