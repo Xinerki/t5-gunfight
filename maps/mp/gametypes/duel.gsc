@@ -276,28 +276,37 @@ chooseRandomGuns()
 	level.duelSecondaryWeapon = random(level.secondaryList).names[0];
 	level.duelLethal = random(level.lethalList).names[0];
 
-	if (level.duelPrimaryWeapon == "ithaca_grip")
-		level.hudPrimary = "menu_mp_weapons_ithaca";
-	else if (level.duelPrimaryWeapon == "psg1_acog")
-		level.hudPrimary = "menu_mp_weapons_psg1";
-	else if (level.duelPrimaryWeapon == "stoner63")
-		level.hudPrimary = "menu_mp_weapons_stoner63a";
-	else if (level.duelPrimaryWeapon == "crossbow_explosive")
-		level.hudPrimary = "menu_mp_weapons_crossbow";
-	else
-		level.hudPrimary = "menu_mp_weapons_" + level.duelPrimaryWeapon;
+	switch(level.duelPrimaryWeapon)
+	{
+		case "ithaca_grip":
+			level.hudPrimary = "menu_mp_weapons_ithaca";
+		case "psg1_acog":
+			level.hudPrimary = "menu_mp_weapons_psg1";
+		case "stoner63":
+			level.hudPrimary = "menu_mp_weapons_stoner63a";
+		case "crossbow_explosive":
+			level.hudPrimary = "menu_mp_weapons_crossbow";
+		default:
+			level.hudPrimary = "menu_mp_weapons_" + level.duelPrimaryWeapon;
+	}
 
-	if (level.duelSecondaryWeapon == "python_speed")
-		level.hudSecondary = "menu_mp_weapons_python";
-	else if (level.duelSecondaryWeapon == "m1911")
-		level.hudSecondary = "menu_mp_weapons_colt";
-	else
-		level.hudSecondary = "menu_mp_weapons_" + level.duelSecondaryWeapon;
+	switch(level.duelSecondaryWeapon)
+	{
+		case "python_speed":
+			level.hudSecondary = "menu_mp_weapons_python";
+		case "m1911":
+			level.hudSecondary = "menu_mp_weapons_colt";
+		default:
+			level.hudSecondary = "menu_mp_weapons_" + level.duelSecondaryWeapon;
+	}
 
-	if (level.duelLethal == "frag_grenade")
-		level.hudLethal = "grenadeicon";
-	else
-		level.hudLethal = "hud_" + level.duelLethal;
+	switch(level.duelLethal)
+	{
+		case "frag_grenade":
+			level.hudLethal = "grenadeicon";
+		default:
+			level.hudLethal = "hud_" + level.duelLethal;
+	}
 	
 	PreCacheShader(level.hudPrimary);
 	PreCacheShader(level.hudSecondary);
