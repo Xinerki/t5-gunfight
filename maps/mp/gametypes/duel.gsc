@@ -67,6 +67,7 @@ main()
 	addPrimaryToList ( "uzi" );
 	addPrimaryToList ( "mpl" );
 	addPrimaryToList ( "mac11" );
+	// addPrimaryToList ( "mp40" ); TODO: fix up mp40
 
 	// SHOTGUNS
 	addPrimaryToList ( "spas" );
@@ -352,6 +353,8 @@ chooseRandomGuns()
 	PreCacheShader(level.hudSecondary);
 	PreCacheShader(level.hudLethal);
 	PrecacheItem( "minigun_wager_mp" );
+	PrecacheItem( "mp40_mp" );
+	PrecacheItem( "ks23_mp" );
 }
 getRandomGunFromProgression()
 {	
