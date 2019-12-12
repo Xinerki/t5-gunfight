@@ -92,7 +92,7 @@ main()
 	// SPECIAL
 	addPrimaryToList ( "china_lake" );
 	addPrimaryToList ( "crossbow_explosive", "explosive_bolt" );
-	addPrimaryToList ( "minigun_mp" );
+	addPrimaryToList ( "minigun" );
 	
 	// SECONDARIES
 	addSecondaryToList( "python_speed" );
@@ -212,7 +212,7 @@ giveCustomLoadout( takeAllWeapons, alreadySpawned )
 	}
 
 	if (currentPrimary == "minigun_mp" || currentPrimary == "china_lake_mp")
-		self thread infiniteAmmo()
+		self thread infiniteAmmo();
 
 	self giveWeapon( "knife_mp" );	
 	self EnableWeaponCycling();
