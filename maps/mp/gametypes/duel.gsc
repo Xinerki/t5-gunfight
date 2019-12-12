@@ -92,6 +92,7 @@ main()
 	// SPECIAL
 	addPrimaryToList ( "china_lake" );
 	addPrimaryToList ( "crossbow_explosive", "explosive_bolt" );
+	addPrimaryToList ( "minigun_mp" );
 	
 	// SECONDARIES
 	addSecondaryToList( "python_speed" );
@@ -178,7 +179,7 @@ giveCustomLoadout( takeAllWeapons, alreadySpawned )
 	currentSecondary = level.duelSecondaryWeapon + "_mp";
 	currentLethal = level.duelLethal + "_mp";
 	
-	if (currentPrimary != "spas_mp" && currentPrimary != "ithaca_grip_mp" && currentPrimary != "rottweil72_mp" && currentPrimary != "china_lake_mp")
+	if (currentPrimary != "minigun_mp" && currentPrimary != "spas_mp" && currentPrimary != "ithaca_grip_mp" && currentPrimary != "rottweil72_mp" && currentPrimary != "china_lake_mp")
 	{
 		currentWeapon = currentSecondary;
 		self giveWeapon( currentWeapon );	
@@ -204,7 +205,7 @@ giveCustomLoadout( takeAllWeapons, alreadySpawned )
 
 	showWeaponInfo(1, level.hudPrimary, "Primary Weapon", -128);
 
-	if (currentPrimary != "spas_mp" && currentPrimary != "ithaca_grip_mp" && currentPrimary != "rottweil72_mp" && currentPrimary != "china_lake_mp")
+	if (currentPrimary != "minigun_mp" && currentPrimary != "spas_mp" && currentPrimary != "ithaca_grip_mp" && currentPrimary != "rottweil72_mp" && currentPrimary != "china_lake_mp")
 	{
 		showWeaponInfo(2, level.hudSecondary, "Secondary Weapon", -120);
 		showWeaponInfo(3, level.hudLethal, "Lethal Throwable", -112);
