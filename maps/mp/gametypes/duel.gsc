@@ -106,7 +106,7 @@ main()
 	addLethalToList( "hatchet" );
 	//addLethalToList( "claymore_mp" );
 	
-	setscoreboardcolumns( "kills", "deaths", "assists" ); 
+	setscoreboardcolumns( "kills", "deaths", "stabs", "assists" ); 
 }
 addPrimaryToList( gunName, altName )
 {
