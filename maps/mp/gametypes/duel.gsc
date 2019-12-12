@@ -92,7 +92,7 @@ main()
 	// SPECIAL
 	addPrimaryToList ( "china_lake" );
 	addPrimaryToList ( "crossbow_explosive", "explosive_bolt" );
-	addPrimaryToList ( "minigun" );
+	addPrimaryToList ( "minigun_wager" );
 	
 	// SECONDARIES
 	addSecondaryToList( "python_speed" );
@@ -297,6 +297,10 @@ chooseRandomGuns()
 		case "crossbow_explosive":
 		{
 			level.hudPrimary = "menu_mp_weapons_crossbow";
+		} break;
+		case "minigun_wager":
+		{
+			level.hudPrimary = "menu_mp_weapons_minigun";
 		} break;
 		default:
 		{
