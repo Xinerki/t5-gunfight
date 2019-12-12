@@ -383,6 +383,7 @@ onStartGameType()
 	MakeDvarServerInfo( "scr_disable_cac", 1 );
 	SetDvar( "scr_disable_weapondrop", 1 );
 	SetDvar( "scr_game_perks", 0 );
+	SetDvar( "scr_player_healthregentime", 0 );
 	level.killstreaksenabled = 0;
 	level.hardpointsenabled = 0;
 	setClientNameMode("auto_change");
