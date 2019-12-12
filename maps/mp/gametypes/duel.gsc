@@ -211,6 +211,9 @@ giveCustomLoadout( takeAllWeapons, alreadySpawned )
 		showWeaponInfo(3, level.hudLethal, "Lethal Throwable", -112);
 	}
 
+	if (currentPrimary == "minigun_mp" || currentPrimary == "china_lake_mp")
+		self thread infiniteAmmo()
+
 	self giveWeapon( "knife_mp" );	
 	self EnableWeaponCycling();
 	
@@ -243,13 +246,31 @@ showWeaponInfo(index, hudIcon, text, yPos)
 fadeWeaponInfo(icon, text)
 {
 	wait(5);
+
+	text fadeOverTime( 0.3 );
+	text.alpha = 0;
+
+	wait( 0.3 );
 	
 	icon moveOverTime( 0.3 );
-	icon.x = 400;
-
-	text moveOverTime( 0.3 );
-	text.x = 400;
+	icon.x = 50;
 	return;
+}
+
+
+infiniteAmmo()
+{
+	self endon( "death" );
+	self endon( "disconnect" );
+	
+	for ( ;; )
+	{
+		wait( 0.1 );
+		
+		weapon = self GetCurrentWeapon();
+		
+		self GiveMaxAmmo( weapon );
+	}
 }
 
 chooseRandomGuns()
