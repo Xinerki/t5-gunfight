@@ -4,3 +4,4 @@ rawfile,maps/mp/gametypes/duel.gsc
 stringtable,mp/gametypestable.csv
 localize,duel
 rawfile,myWhitelist.cfg
+material,mtl_t5_weapon_m1911_mp

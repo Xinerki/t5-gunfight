@@ -95,9 +95,9 @@ main()
 	
 	// SECONDARIES
 	addSecondaryToList( "python_speed" );
-	addSecondaryToList( "makarov" );
-	addSecondaryToList( "m1911" );
-	addSecondaryToList( "cz75" );
+	addSecondaryToList( "makarov_upgradesight" );
+	addSecondaryToList( "m1911_upgradesight" );
+	addSecondaryToList( "cz75_upgradesight" );
 	// addSecondaryToList( "knife_ballistic_mp" );
 	
 	// LETHAL THROWABLES
@@ -290,9 +290,17 @@ chooseRandomGuns()
 		{
 			level.hudSecondary = "menu_mp_weapons_python";
 		} break;
-		case "m1911":
+		case "m1911_upgradesight":
 		{
 			level.hudSecondary = "menu_mp_weapons_colt";
+		} break;
+		case "makarov_upgradesight":
+		{
+			level.hudSecondary = "menu_mp_weapons_makarov";
+		} break;
+		case "cz75_upgradesight":
+		{
+			level.hudSecondary = "menu_mp_weapons_cz75";
 		} break;
 		default:
 		{
