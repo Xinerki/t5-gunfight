@@ -77,7 +77,7 @@ main()
 	// RIFLES
 	addPrimaryToList ( "m14" );
 	addPrimaryToList ( "l96a1" );
-	addPrimaryToList ( "psg1_acog" );
+	addPrimaryToList ( "psg1" );
 
 	// ASSAULT RIFLES
 	addPrimaryToList ( "ak47" );
@@ -286,10 +286,6 @@ chooseRandomGuns()
 		case "ithaca_grip":
 		{
 			level.hudPrimary = "menu_mp_weapons_ithaca";
-		} break;
-		case "psg1_acog":
-		{
-			level.hudPrimary = "menu_mp_weapons_psg1";
 		} break;
 		case "stoner63":
 		{
